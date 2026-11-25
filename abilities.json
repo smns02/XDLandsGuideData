@@ -1,0 +1,101 @@
+[
+  {
+    "id": "furniture_crafting_ability",
+    "name_en": "Furniture Crafting Ability",
+    "category": "Crafting",
+    "key_stats": ["CON (Tenacity)", "INT (Intelligence)"],
+    "how_it_works_mm": "ပရိဘောဂ (သေတ္တာ၊ ခုတင်၊ စားပွဲ၊ Workbench၊ Research Center အစရှိသည်) များ တည်ဆောက်ရာတွင် အောင်မြင်မှုနှုန်း (Success Rate)၊ Great Success ရနိုင်ခြေနှင့် Durability ပိုကောင်းစေသော စွမ်းရည်ဖြစ်သည်။",
+    "best_gear_and_tools_mm": "Furniture Crafting Ability Buff ပါသော Work Outfit / Hat ဝတ်ဆင်ပါ။ Work Hammer / Saw ကို Durability ကောင်းအောင် Compress လုပ်ထားပါ။",
+    "best_attributes_mm": "Pointy (All Crafting Ability +1), High Density (Durability တိုး), Pioneer Material (Craft Level မြှင့်)",
+    "best_food_buffs_mm": "CON နှင့် INT တိုးပေးသော ဟင်းများ (ဥပမာ - Soup, Stew, Grain/Vegetable ဟင်းများ) ကို Steam ထည့်ချက်ပြီး စားပါ။",
+    "max_leveling_tips_mm": "Craft Difficulty ထက် မိမိ Ability က +20 ကျော်နေပါက အမြင့်ဆုံးအခွင့်အရေး (Best Odds) အပြည့်ရသည်။ Level မြန်မြန်တက်ရန် Plank / Pillar ကဲ့သို့ အခြေခံ Construction/Furniture ပစ္စည်းများကို အများအပြား တွဲလုပ်ပါ။"
+  },
+  {
+    "id": "building_ability",
+    "name_en": "Building Ability",
+    "category": "Construction",
+    "key_stats": ["CON (Tenacity)", "INT (Intelligence)"],
+    "how_it_works_mm": "အိမ်၊ နံရံ၊ ခေါင်မိုး၊ တံတိုင်း၊ Kiln နှင့် Clan အဆောက်အဦများ ဆောက်လုပ်ရာတွင် အဆောက်အဦ ကြံ့ခိုင်မှု၊ တည်ဆောက်နိုင်သော Level အကန့်အသတ်နှင့် အောင်မြင်မှုနှုန်းကို တိုးမြှင့်ပေးသည်။",
+    "best_gear_and_tools_mm": "Heavy Construction Outfit + Construction Helmet ဝတ်ဆင်ပါ။ Work Hammer တွင် Construction/Building Ability Buff ပါအောင် ရွေးသုံးပါ။",
+    "best_attributes_mm": "Full (All Building Ability +1), High Density (အဆောက်အဦ သက်တမ်းနှင့် ကြံ့ခိုင်မှု တိုးစေသည် - Low Density ပါပါက အဆောက်အဦ သက်တမ်းတိုမည်)",
+    "best_food_buffs_mm": "Construction/Building Ability တိုက်ရိုက်တိုးပေးသော Food များနှင့် CON / INT Buff ဟင်းများ တွဲစားပါ။",
+    "max_leveling_tips_mm": "Building Ability 30+ အထက်ရောက်ရန် Life Outfit (Heavy Construction Outfit) ကို Great Success ရအောင် Craft လုပ်ခြင်း၊ Helmet နှင့် Tool တွင် Building Buff ထည့်ခြင်း၊ Personal Research Center တွင် Tech Support (Reform) လုပ်ခြင်းတို့ ပေါင်းစပ်ရသည်။"
+  },
+  {
+    "id": "tailoring_ability",
+    "name_en": "Tailoring Ability",
+    "category": "Crafting",
+    "key_stats": ["DEX (Craftsmanship)", "CHA (Charisma)"],
+    "how_it_works_mm": "အဝတ်အထည်၊ ဦးထုပ်၊ ဖိနပ်၊ အိတ်၊ ချည်ကြိုးနှင့် အထည်စများ ချုပ်လုပ်ခြင်းအပြင် Scale / Padding / Resistance Modify များ ထည့်သွင်းရာတွင် အဆင့်မြင့် Buff Level ကျနိုင်ခြေကို တိုးပေးသည်။",
+    "best_gear_and_tools_mm": "Tailoring Outfit + Bone/Metal Sewing Needle (Tailoring Buff ပါသော Tool) ကိုင်ဆောင်ပါ။",
+    "best_attributes_mm": "Pointy (All Crafting Ability +1), Low Luster (CHA +1), Tough Fibre (Outfit Defense +2.3)",
+    "best_food_buffs_mm": "DEX (Onion, Wheat ပါသော ပေါင်မုန့်/ပီဇာ) နှင့် CHA (Aged Cheese, Berry/Fruit ဟင်းများ) တွဲစားပါ။",
+    "max_leveling_tips_mm": "Modify တစ်ခု၏ Difficulty ထက် Tailoring Ability +20 ကျော်ရုံဖြင့် Best Odds အပြည့်ရသည်။ XP မြန်မြန်တက်ရန် Rope, Thread, Fabric ကဲ့သို့ ကြားခံပစ္စည်း (Intermediate Materials) များကို အစုလိုက်အပြုံလိုက် ချုပ်ပါ။"
+  },
+  {
+    "id": "weapon_crafting_ability",
+    "name_en": "Weapon Crafting Ability",
+    "category": "Crafting",
+    "key_stats": ["STR (Strength)", "DEX (Craftsmanship)"],
+    "how_it_works_mm": "လေး၊ ဒူးလေး (Crossbow)၊ ဓား၊ လှံ၊ တူနှင့် Work Tool များ ပြုလုပ်ရာတွင် Attack၊ Durability နှင့် Great Success (+1 bonus stat) ကျနိုင်ခြေကို တိုးပေးသည်။",
+    "best_gear_and_tools_mm": "Weapon/Tool Crafting Outfit နှင့် Weapon Crafting Ability Buff ပါသော Hammer / Knife ကို အသုံးပြုပါ။",
+    "best_attributes_mm": "Pointy (Weapon တွင် Defense Penetration +10 / Crafting တွင် All Crafting Ability +1), Firm (Weapon Attack တိုး), High Density (Durability တိုး)",
+    "best_food_buffs_mm": "STR (ဒိုင်နိုဆောအသားဟင်းများ) နှင့် DEX (Wheat/Onion ဟင်းများ) ကို တွဲဖက်စားသုံးပါ။",
+    "max_leveling_tips_mm": "Weapon Craft လုပ်ခါနီး မိမိ Ability က Recipe Difficulty ထက် +20 ကျော်အောင် Food + Outfit ဝတ်ထားပါ။ Great Success ကျပါက Weapon တွင် Attack အပို၊ Tool တွင် Durability အပို တန်းရသည်။"
+  },
+  {
+    "id": "cooking_ability",
+    "name_en": "Cooking Ability",
+    "category": "Crafting",
+    "key_stats": ["CHA (Charisma)", "INT (Intelligence)"],
+    "how_it_works_mm": "ဟင်းချက်ခြင်း၊ မုန့်ဖုတ်ခြင်း၊ Sauce လုပ်ခြင်းနှင့် Cheese/Aged Cheese ပြုလုပ်ရာတွင် Buff Level မြင့်မားစေခြင်း၊ Energy ပြန်ဖြည့်မှု တိုးခြင်းနှင့် မီးမတူးဘဲ အောင်မြင်စေခြင်းတို့အတွက် အရေးပါသည်။",
+    "best_gear_and_tools_mm": "Cooking Outfit နှင့် အဆင့်မြင့် Kitchen Utensils (Pot, Skillet, Oven, Steam Pot) များ အသုံးပြုပါ။",
+    "best_attributes_mm": "Pointy (All Crafting Ability +1), Low Luster (CHA +1)",
+    "best_food_buffs_mm": "INT နှင့် CHA တိုးပေးသော အစားအစာများ (ဥပမာ - Aged Cheese, Herbal Tea/Juice) စားပြီးမှ အဆင့်မြင့် Buff Food များ ချက်ပါ။",
+    "max_leveling_tips_mm": "Buff သက်တမ်း (Duration) ကြာရှည်ခံအောင် ချက်ပြုတ်ရာတွင် Steam အဆင့်ကို အမြဲထည့်သွင်းပါ။ တစ်ကြိမ်လျှင် Food Buff တစ်မျိုးသာ တက်နိုင်ပြီး ဒုတိယဟင်းစားပါက ပထမ Buff ကို အစားထိုးသွားမည်။"
+  },
+  {
+    "id": "gathering_ability",
+    "name_en": "Gathering Ability",
+    "category": "Gathering",
+    "key_stats": ["INT (Intelligence)", "DEX (Craftsmanship)", "PER (Wit)"],
+    "how_it_works_mm": "သစ်ပင်ခုတ်ခြင်း၊ သတ္တုတူးခြင်း (Mining)၊ အပင်/အသီးအနှံခူးခြင်းများတွင် Level မြင့်ကျွန်းပစ္စည်းများ ထုတ်ယူနိုင်မှု၊ Flawless ရနိုင်ခြေနှင့် Energy သက်သာမှုကို မြှင့်တင်ပေးသည်။",
+    "best_gear_and_tools_mm": "Gathering Outfit + Narrow Hook Shape (Secrets of Gathering) နှင့် Wide Serration Shape (Extra Extra / Gathering Mania) တွဲထားသော Work Axe / Pickaxe ကိုင်ပါ။",
+    "best_attributes_mm": "Sharp Section (All Gathering Ability +1), High Density (Tool Durability တိုး)",
+    "best_food_buffs_mm": "Aged Cheese (Plant Gathering + PER/CHA), Cheese Pizza (Butchering & Gathering Lv. 4), Cream Sauce (PER +46)",
+    "max_leveling_tips_mm": "Unstable Island Index 1-5 သည် Material ၏ Yellow Attribute ကို တိုးပေးပြီး Index 6-8 သည် Flawless ကျမှသာ တိုးပေးသည်။ Green Buff ကျနှုန်းကမူ ပုံမှန် 1/1,000 ဖြစ်ပြီး Secrets of Gathering ဖြင့် မြှင့်တင်နိုင်သည်။"
+  },
+  {
+    "id": "butchering_slaughter_ability",
+    "name_en": "Butchering / Slaughter Ability",
+    "category": "Gathering",
+    "key_stats": ["WIL (Will)", "PER (Wit)"],
+    "how_it_works_mm": "ဒိုင်နိုဆောအလောင်းများမှ အသား၊ သားရေ (Hide/Pelt)၊ အရိုး (Bone/Rib)၊ ဦးချိုနှင့် အမွေးများ ခုတ်ထုတ်ရာတွင် အရည်အသွေးမြင့် (Flawless / Rare Attribute) ရရှိနိုင်ခြေနှင့် အောင်မြင်မှုနှုန်းကို တိုးပေးသည်။",
+    "best_gear_and_tools_mm": "Slaughter/Butchering Outfit + Narrow Hook Shape (Secrets of Gathering) ပါသော Bone Work Axe (အရိုးအတွက်) နှင့် Work Knife (သားရေ/အသားအတွက်) သုံးပါ။",
+    "best_attributes_mm": "Sharp Section (All Gathering Ability +1), High Density (Tool ကြံ့ခိုင်မှု တိုး)",
+    "best_food_buffs_mm": "ရိုးရိုး Cheese (Slaughter Ability Lv. 4), Cheese Pizza (Butchering & Gathering Lv. 4), Cream Sauce (PER +46), Oil Sauce (WIL +46)",
+    "max_leveling_tips_mm": "အရိုးကြီးသတ္တဝါ (Big Animal) များမှ Green Bone ကျနိုင်ခြေသည် 2/1,000 အထိ ပုံမှန်ထက် ၂ ဆ ပိုများသည်။ Work Axe တွင် Nail Spike လုံးဝမထည့်ဘဲ Repair အကြိမ်ရေ ချန်ထားပါ။"
+  },
+  {
+    "id": "farming_ability",
+    "name_en": "Farming Ability",
+    "category": "Gathering",
+    "key_stats": ["CHA (Charisma)", "WIL (Will)"],
+    "how_it_works_mm": "စိုက်ခင်းများတွင် ဂျုံ၊ ပြောင်း၊ အာလူး၊ ကြက်သွန်၊ ဝါနှင့် ဆေးဖက်ဝင်အပင်များ စိုက်ပျိုးရိတ်သိမ်းရာတွင် ရိတ်သိမ်းမှုပမာဏနှင့် အရည်အသွေးကို တိုးပေးသည်။",
+    "best_gear_and_tools_mm": "Farming Outfit နှင့် Farming Buff ပါသော Hoe / Sickle ကို အသုံးပြုပါ။",
+    "best_attributes_mm": "Sharp Section (All Gathering Ability +1), High Density (Tool Durability)",
+    "best_food_buffs_mm": "CHA နှင့် WIL တိုးပေးသော ဟင်းများ (Oil Sauce, Herb Seasoned Pizza, Aged Cheese)",
+    "max_leveling_tips_mm": "Lv. 60 Milestone များအတွက် Lv. 60+ မျိုးစေ့များ စိုက်ပျိုးခြင်းဖြင့် XP နှင့် Rare Crop များ ပိုမိုရရှိနိုင်သည်။"
+  },
+  {
+    "id": "processing_ability",
+    "name_en": "Processing Ability",
+    "category": "Crafting",
+    "key_stats": ["INT (Intelligence)", "WIL (Will)"],
+    "how_it_works_mm": "သတ္တုကျိုခြင်း (Metalworking/Smelting)၊ သားရေနယ်ခြင်း (Tanning)၊ သစ်ခွဲခြင်း (Trim/Compress/Debris) နှင့် ပစ္စည်းဖျက်ထုတ်ခြင်း (Dismantling) များတွင် အောင်မြင်မှုနှုန်းကို မြှင့်တင်ပေးသည်။",
+    "best_gear_and_tools_mm": "Processing Outfit နှင့် အဆင့်မြင့် Kiln / Tanning Rack / Workbench များ အသုံးပြုပါ။",
+    "best_attributes_mm": "Pointy (All Crafting Ability +1), High Density (Tool ကြံ့ခိုင်မှု)",
+    "best_food_buffs_mm": "INT နှင့် WIL တိုးပေးသော ဟင်းများ (Oil Sauce, Stew)",
+    "max_leveling_tips_mm": "XD Lands တွင် သတ္တုပေါင်းစပ်ရာ၌ (Metal Combining) Main Chunk တွင် Hammer work ကျန်နေရမည်ဖြစ်ပြီး ဒုတိယ Chunk တွင် Hammer work ကျန်နေပါက ပိုမြင့်သော Attribute အားလုံးကို မြှင့်တင်ပေးသည်။ Low Density လည်း မတိုးတော့ပါ။"
+  }
+]
