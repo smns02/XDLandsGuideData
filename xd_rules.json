@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rule_metal_combining",
+    "title": "Metal Combining Overhaul",
+    "patch_tag": "Nov 20 Update",
+    "severity": "IMPORTANT",
+    "summary_en": "Second chunk with hammer work raises ALL higher attributes; zero-hammer Steel is filler only; Combining no longer adds Low Density.",
+    "details_mm": "Nov 20 အပ်ဒိတ်အသစ်အရ Metal Combining ပြုလုပ်ရာတွင် အဓိက Main Chunk (Hammer Work ပါဝင်သော) သည် ၎င်း၏ Attribute များကို ထိန်းသိမ်းထားမည်ဖြစ်ပြီး ဒုတိယ Chunk (Hammer Work ပါဝင်သော) သည် ပိုမြင့်သော Attribute အားလုံးကို မြှင့်တင်ပေးမည်ဖြစ်သည်။ Hammer Work မပါသော Steel သည် Filler အဖြစ်သာ အသုံးဝင်ပြီး Combining ပြုလုပ်ခြင်းကြောင့် Low Density Penalty လုံးဝ ထပ်မတက်တော့ပါ။"
+  },
+  {
+    "id": "rule_blades_work_passes",
+    "title": "Blades & Work Passes Restriction",
+    "patch_tag": "v10.10.26",
+    "severity": "WARNING",
+    "summary_en": "Blades no longer carry work passes; repeat-processing exploits are permanently closed.",
+    "details_mm": "v10.10.26 အပ်ဒိတ်မှစ၍ ဓားသွား (Blades) များတွင် Work Pass များ ဆက်လက်မပါဝင်တော့ပါ။ ထို့ကြောင့် ထပ်ခါတလဲလဲ Process ပြန်လုပ်၍ Stat တင်သော နည်းလမ်း (Repeat-Processing) ကို ပိတ်ပင်လိုက်ပြီး ဖြစ်သည်။ Blade မလုပ်မီ အရိုး/သတ္တု အဆင့်တွင် ကြိုတင် Process အပြီးလုပ်ထားပါ။"
+  },
+  {
+    "id": "rule_boss_fight",
+    "title": "Boss Fight 20% Damage Share & Range",
+    "patch_tag": "Boss Rule",
+    "severity": "WARNING",
+    "summary_en": "Out-of-reach or lost-aggro ranged hits do NOT count toward the 20% damage share or Title reward.",
+    "details_mm": "T-Rex ကဲ့သို့ Boss များ တိုက်ခိုက်ရာတွင် Boss ၏ Aggro ပျောက်နေချိန် သို့မဟုတ် တိုက်ပွဲအကွာအဝေးပြင်ပ (Out-of-Reach) မှနေ၍ လေး/ဒူးလေးဖြင့် ပစ်ခတ်သော Damage များကို 20% Damage Share နှင့် Title Reward စာရင်းထဲသို့ ထည့်သွင်းတွက်ချက်မည် မဟုတ်ပါ။ Boss နှင့် သတ်မှတ် Combat Range အတွင်းမှသာ တိုက်ခိုက်ပါ။"
+  },
+  {
+    "id": "rule_hide_gem_limits",
+    "title": "Hide & Gem Limits Restored",
+    "patch_tag": "v10.13",
+    "severity": "INFO",
+    "summary_en": "Restored accurate Hide & Gem level limits along with reliable crafting result previews.",
+    "details_mm": "v10.13 အပ်ဒိတ်တွင် သားရေ (Hide) နှင့် ကျောက်မျက် (Gem) များ၏ အဆင့်ကန့်သတ်ချက်များကို မှန်ကန်စွာ ပြန်လည်ထိန်းညှိပေးထားပြီး Crafting မလုပ်မီ ပြသသော Stat Preview တန်ဖိုးများသည် လက်တွေ့ရလဒ်နှင့် တိကျစွာ ကိုက်ညီပြီဖြစ်သည်။"
+  },
+  {
+    "id": "rule_savage_island",
+    "title": "Savage Island Banner & Catapult Rules",
+    "patch_tag": "v10.13",
+    "severity": "WARNING",
+    "summary_en": "Clan Banner drops on shore if swimming; firing catapults from neutral ground is disabled.",
+    "details_mm": "Savage Island Clan War တွင် Banner ကိုင်ဆောင်ထားသူသည် ရေထဲသို့ ဆင်းကူးပါက Banner သည် ကမ်းစပ်တွင် အလိုအလျောက် ပြုတ်ကျကျန်ရစ်ခဲ့မည်။ ထို့အပြင် ဘက်မလိုက်နယ်မြေ (Neutral Ground) အတွင်းမှနေ၍ Catapult ဖြင့် ပစ်ခတ်တိုက်ခိုက်ခြင်းကို တင်းကျပ်စွာ ပိတ်ပင်ထားပါသည်။"
+  }
+]

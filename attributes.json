@@ -1,0 +1,98 @@
+[
+  {
+    "id": "attr_high_density",
+    "name": "High Density",
+    "is_debuff": false,
+    "max_level": 10,
+    "source_hint": "Compress (Water x2), Black Iron Ore, Granite",
+    "weapon_effect": "Increases Weapon Max Durability & Knockback stability.",
+    "tool_effect": "Maximizes Tool Durability & Work Efficiency (Essential for Green Bone Axe).",
+    "outfit_effect": "Boosts Armor Defense & Thermal/Physical protection.",
+    "building_effect": "Increases Building Durability & Structural HP.",
+    "description_mm": "Tool နှင့် Armor များအတွက် အရေးအကြီးဆုံး Attribute ဖြစ်သည်။ Bone/Wood ကို Compress (ရေ ၂ ခွက်) လုပ်တိုင်း High Density +2 တက်စေပြီး Green Bone Axe ၏ Durability ကို အမြင့်ဆုံး ရောက်စေသည်။"
+  },
+  {
+    "id": "attr_firm",
+    "name": "Firm",
+    "is_debuff": false,
+    "max_level": 10,
+    "source_hint": "Debris Process, Black Iron Ore, Thick Leather",
+    "weapon_effect": "Boosts Attack Power & Armor Penetration on Bows/Melee weapons.",
+    "tool_effect": "Adds minor Work Power; less valuable than High Density for durability.",
+    "outfit_effect": "Grants Heavy Construction Buff (Building Speed/Skill) & Defense.",
+    "building_effect": "Raises Building Structural Strength & Siege Resistance.",
+    "description_mm": "Weapon Attack တင်ရန်နှင့် Heavy Construction ဝတ်စုံချုပ်ရန် အဓိက Attribute ဖြစ်သည်။ Bone/Wood ကို Debris လုပ်ပါက Firm +2 ရသော်လည်း Low Density +1 တွဲပါလာတတ်သည်ကို သတိပြုပါ။"
+  },
+  {
+    "id": "attr_lightweight",
+    "name": "Lightweight",
+    "is_debuff": false,
+    "max_level": 10,
+    "source_hint": "Trim Process, Hollow Bone, Fine Hide",
+    "weapon_effect": "Increases Attack Speed & reduces Stamina cost per swing/shot.",
+    "tool_effect": "Speeds up Gathering cycle & reduces Energy drain.",
+    "outfit_effect": "Boosts Evasion & Movement Speed while lowering carry weight.",
+    "building_effect": "Reduces material transport weight; minimal structural combat bonus.",
+    "description_mm": "အလေးချိန် လျော့နည်းစေပြီး တိုက်ခိုက်မှုအမြန်နှုန်း (Attack Speed) နှင့် ရှောင်တိမ်းနိုင်စွမ်း (Evasion) ကို မြှင့်တင်ပေးသည်။ Trim အဆင့်လုပ်ခြင်းဖြင့် ဘေးထွက်ဆိုးကျိုးမရှိဘဲ ထိန်းညှိနိုင်သည်။"
+  },
+  {
+    "id": "attr_compact_structure",
+    "name": "Compact Structure",
+    "is_debuff": false,
+    "max_level": 10,
+    "source_hint": "Smelted Steel, Treated Hardwood, Parasaurolophus Rib",
+    "weapon_effect": "Increases Accuracy & Critical Consistency.",
+    "tool_effect": "Improves Gathering Precision & Durability retention.",
+    "outfit_effect": "Adds Balanced Defense & Crafting Durability.",
+    "building_effect": "Increases Building Quality & Repair Efficiency.",
+    "description_mm": "ဖွဲ့စည်းပုံ သိပ်သည်းစေပြီး Weapon Accuracy နှင့် Tool ခံနိုင်ရည်ကို တည်ငြိမ်စေသည်။ Metal Combining တွင် Main Chunk ၌ ရှိနေပါက အလွန်တန်ဖိုးရှိသည်။"
+  },
+  {
+    "id": "attr_pointy",
+    "name": "Pointy",
+    "is_debuff": false,
+    "max_level": 10,
+    "source_hint": "Carved Bone, Dinosaur Horn, Metal Spearhead",
+    "weapon_effect": "Significantly boosts Piercing Attack & Lethality (Critical Damage).",
+    "tool_effect": "Increases Butchering / Slaughter extraction efficiency.",
+    "outfit_effect": "No defensive benefit on Outfit (avoid wasting Pointy materials on Armor).",
+    "building_effect": "Used for Defensive Spikes / Barricade damage.",
+    "description_mm": "Bow/Crossbow မြားထိပ်များနှင့် Spear/Knife များတွင် Lethality နှင့် Attack တင်ရန် အကောင်းဆုံး Attribute ဖြစ်သည်။ Outfit တွင် ထည့်သုံးပါက အကျိုးမရှိပါ။"
+  },
+  {
+    "id": "attr_pioneer_material",
+    "name": "Pioneer Material",
+    "is_debuff": false,
+    "max_level": 10,
+    "source_hint": "Volcano Black Iron Ore, Savage Island Rare Nodes",
+    "weapon_effect": "Unlocks higher Base Damage ceiling & bonus Combat Stat scaling.",
+    "tool_effect": "Boosts High-Level Island Gathering speed & Rare chance.",
+    "outfit_effect": "Raises Max Defense cap & Environmental resistance ceiling.",
+    "building_effect": "Enables high-tier Savage Island fort durability scaling.",
+    "description_mm": "အဆင့်မြင့်ကျွန်း (Volcano / Savage Island) များမှ ရရှိသော ရှားပါး Attribute ဖြစ်ပြီး ပစ္စည်း၏ အခြေခံ Stat အမြင့်ဆုံးကန့်သတ်ချက်ကို ချဲ့ထွင်ပေးသည်။"
+  },
+  {
+    "id": "attr_low_density",
+    "name": "Low Density",
+    "is_debuff": true,
+    "max_level": 10,
+    "source_hint": "DEBUFF — Caused by Debris process or poor raw materials",
+    "weapon_effect": "PENALTY: Sharply reduces Weapon Max Durability.",
+    "tool_effect": "PENALTY: Destroys Tool Durability! Never allow on Green Bone Axe.",
+    "outfit_effect": "PENALTY: Lowers Armor Defense & breaks faster in combat.",
+    "building_effect": "PENALTY: Weakens Building HP against Dinosaur & Clan raids.",
+    "description_mm": "သတိပြုရန် (DEBUFF) — Durability နှင့် Defense ကို သိသိသာသာ ကျဆင်းစေသည်။ Debris အဆင့်လုပ်တိုင်း Low Density +1 တက်လာသောကြောင့် Tool များတွင် Debris လုံးဝ မသုံးပါနှင့်။ Nov 20 အပ်ဒိတ်အရ Metal Combining တွင် Low Density ထပ်မတက်တော့ပါ။"
+  },
+  {
+    "id": "attr_sharp_section",
+    "name": "Sharp Section",
+    "is_debuff": false,
+    "max_level": 10,
+    "source_hint": "Volcanic Obsidian, Razor Bone, Forged Metal Blade",
+    "weapon_effect": "Boosts Slashing Damage & Critical Hit Rate.",
+    "tool_effect": "Increases Woodcutting & Slaughter speed on Axes/Knives.",
+    "outfit_effect": "Not applicable to Armor/Outfit slots.",
+    "building_effect": "Minimal effect on standard buildings.",
+    "description_mm": "ဓား၊ ပုဆိန်နှင့် လှံသွားများတွင် Slashing Attack နှင့် Critical နှုန်းကို တိုးမြှင့်ပေးသည်။ v10.10.26 အပ်ဒိတ်အရ Blade များတွင် Work Pass မပါတော့သဖြင့် မသွန်းလောင်းမီ Raw Material အဆင့်တွင် ကြိုတင်ပြင်ဆင်ထားပါ။"
+  }
+]

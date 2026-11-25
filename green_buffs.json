@@ -1,0 +1,162 @@
+[
+  {
+    "id": "gb_narrow_hook",
+    "name": "Narrow Hook Shape",
+    "source_material": "Green Bone / Claw / Rare Horn",
+    "valid_targets": ["Tool"],
+    "outcomes": [
+      {
+        "name": "Secrets of Gathering",
+        "stat_highlight": "Rare / Green Drop Rate UP",
+        "description_mm": "Rare/Green attribute ကျနိုင်ခြေ တိုက်ရိုက်တိုးပေးသည် — Green Bone နှင့် ရှားပါး Material များ ရှာဖွေရန် အကောင်းဆုံး Buff ဖြစ်သည်။"
+      },
+      {
+        "name": "Meticulous Gatherer",
+        "stat_highlight": "Flawless Rate +5%",
+        "description_mm": "Gathering ပြုလုပ်ရာတွင် Flawless ကျနိုင်ခြေ +5% တိုးစေပြီး Work Count ကောင်းမွန်သော ပစ္စည်းများ ရရှိစေသည်။"
+      }
+    ],
+    "warning_mm": "Tool (Work Axe, Knife, Pickaxe) များတွင်သာ အလုပ်လုပ်ပါသည်။ Weapon, Outfit သို့မဟုတ် Building တွင် ထည့်သုံးပါက Green Buff ပျောက်ကွယ်ပြီး အလဟဿ ဖြစ်ပါမည်။",
+    "tip_mm": "Green Bone Work Axe ပြုလုပ်ရာတွင် Narrow Hook Shape ပါသော Bone ကို Blade/Head နေရာတွင် ထည့်ပြီး Trim 1x + Compress အဆင့်များဖြင့် Durability အမြင့်ဆုံး တင်ပါ။"
+  },
+  {
+    "id": "gb_wide_serration",
+    "name": "Wide Serration Shape",
+    "source_material": "Rare Dinosaur Bone / Serrated Fang",
+    "valid_targets": ["Tool"],
+    "outcomes": [
+      {
+        "name": "Extra Extra",
+        "stat_highlight": "+1 Bonus Drop (10%)",
+        "description_mm": "Gathering ပြုလုပ်တိုင်း ပစ္စည်းအပို ၁ ခု ထပ်ရနိုင်ခြေ 10% တိုးစေသောကြောင့် ရှားပါး Ore နှင့် Bone ဖမ်းရာတွင် အလွန်အသုံးဝင်သည်။"
+      },
+      {
+        "name": "Gathering Mania",
+        "stat_highlight": "Energy Restore on Gather",
+        "description_mm": "Gathering လုပ်စဉ် Energy ပြန်ဖြည့်နိုင်ခြေ တိုးစေသောကြောင့် ကြာရှည်စွာ Farm လုပ်ရာတွင် အစားအစာ ကုန်ကျမှု သက်သာစေသည်။"
+      }
+    ],
+    "warning_mm": "Gathering Tool များအတွက်သာ သီးသန့်ဖြစ်သည်။ Weapon, Outfit သို့မဟုတ် Building တွင် ထည့်သုံးပါက Buff မရဘဲ ဆုံးရှုံးပါမည်။",
+    "tip_mm": "Black Iron Ore နှင့် Volcanic Material များ အမြောက်အမြား တူးဖော်လိုပါက Wide Serration Shape ပါသော Pickaxe ကို အသုံးပြုပါ။"
+  },
+  {
+    "id": "gb_black_sheen",
+    "name": "Black Sheen",
+    "source_material": "Volcanic Black Iron / Rare Obsidian Ore",
+    "valid_targets": ["Weapon"],
+    "outcomes": [
+      {
+        "name": "Vital Strike",
+        "stat_highlight": "Critical & Lethality UP",
+        "description_mm": "တိုက်ခိုက်ရာတွင် Critical နှင့် Lethality တိုးစေသောကြောင့် T-Rex Boss နှင့် Savage Island PvP/PvE တွင် Damage အမြင့်ဆုံး ထွက်စေသည်။"
+      },
+      {
+        "name": "Throw Dirt",
+        "stat_highlight": "Enemy Accuracy Debuff",
+        "description_mm": "တိုက်ခိုက်ခံရသော ရန်သူ၏ Accuracy ကို လျှော့ချပေးသော Combat Effect ဖြစ်ပြီး Boss နှင့် ရင်ဆိုင်ရာတွင် အသက်ရှင်နှုန်း တိုးစေသည်။"
+      }
+    ],
+    "warning_mm": "Weapon သီးသန့်ဖြစ်သည်။ Work Axe ကဲ့သို့ Tool တွင်ထည့်သုံးပါက အလုပ်မလုပ်ဘဲ အလဟဿ ဖြစ်ပါမည်။",
+    "tip_mm": "Bow, Crossbow, Two-Handed Hammer သို့မဟုတ် Spear များ၏ အဓိက Weapon Blade/Head နေရာတွင်သာ ထည့်သွင်းအသုံးပြုပါ။"
+  },
+  {
+    "id": "gb_dense_grain",
+    "name": "Dense Grain",
+    "source_material": "Ancient Hard Wood / Dense Fossil Bone",
+    "valid_targets": ["Weapon", "Tool", "Outfit"],
+    "outcomes": [
+      {
+        "name": "Reinforced Durability",
+        "stat_highlight": "Max Durability UP",
+        "description_mm": "ပစ္စည်း၏ ခံနိုင်ရည် (Durability) ကို သိသိသာသာ တိုးမြှင့်ပေးပြီး Repair ကြိမ်ရေ သက်တမ်းကို ပိုမိုကြာရှည်စေသည်။"
+      },
+      {
+        "name": "Sturdy Resilience",
+        "stat_highlight": "Wear Reduction",
+        "description_mm": "တိုက်ခိုက်ခြင်း သို့မဟုတ် Gathering လုပ်စဉ် ပစ္စည်းပျက်စီးနှုန်းကို လျှော့ချပေးသော Resilience Buff ဖြစ်သည်။"
+      }
+    ],
+    "warning_mm": "Building ဆောက်လုပ်ရေး ပစ္စည်းများတွင် မသက်ရောက်ပါ။ Weapon, Tool နှင့် Outfit များတွင်သာ အကျိုးရှိပါသည်။",
+    "tip_mm": "နေ့စဉ်သုံး Work Tool များနှင့် Boss Fight သုံး Armor/Weapon များအတွက် ဘက်စုံအသုံးဝင်သော ဘေးကင်းသည့် Green Buff ဖြစ်သည်။"
+  },
+  {
+    "id": "gb_tight_structure",
+    "name": "Tight Structure",
+    "source_material": "High-Grade Metal / Compacted Rib Bone",
+    "valid_targets": ["Weapon", "Tool", "Outfit"],
+    "outcomes": [
+      {
+        "name": "Unbreakable Core",
+        "stat_highlight": "Durability & Stability UP",
+        "description_mm": "ဖွဲ့စည်းပုံ ကျစ်လျစ်စေပြီး Weapon နှင့် Tool များ၏ အမြင့်ဆုံး Durability နှင့် ကြာရှည်ခံမှုကို မြှင့်တင်ပေးသည်။"
+      },
+      {
+        "name": "Impact Resistance",
+        "stat_highlight": "Defense Resilience UP",
+        "description_mm": "Outfit/Armor တွင် ထည့်သုံးပါက ရန်သူတိုက်ခိုက်မှုကြောင့် ချပ်ဝတ်တန်ဆာ ပျက်စီးနှုန်းကို လျှော့ချပေးသည်။"
+      }
+    ],
+    "warning_mm": "Building တွင် ထည့်သွင်းအသုံးပြုပါက Green Buff အဖြစ် ပြောင်းလဲခြင်း မရှိပါ။",
+    "tip_mm": "Metal Combining လုပ်ပြီးနောက် Tight Structure ကျန်ရှိစေရန် အဓိက Main Chunk နေရာတွင် ထား၍ ပေါင်းစပ်ပါ။"
+  },
+  {
+    "id": "gb_soft_texture",
+    "name": "Soft Texture",
+    "source_material": "Rare Fine Hide / Silky Fur",
+    "valid_targets": ["Outfit"],
+    "outcomes": [
+      {
+        "name": "Tailor's Comfort",
+        "stat_highlight": "Comfort & Fatigue Reduction",
+        "description_mm": "ဝတ်စုံ၏ သက်တောင့်သက်သာရှိမှုကို တိုးစေပြီး ခရီးသွားလာခြင်းနှင့် Crafting လုပ်စဉ် ပင်ပန်းမှုနှုန်းကို လျှော့ချပေးသည်။"
+      },
+      {
+        "name": "Agile Weave",
+        "stat_highlight": "Evasion & Movement Ease",
+        "description_mm": "ဝတ်စုံအလေးချိန် လျော့နည်းစေပြီး တိုက်ပွဲအတွင်း ရှောင်တိမ်းနိုင်စွမ်းကို အထောက်အကူပြုသည်။"
+      }
+    ],
+    "warning_mm": "Outfit (ဝတ်စုံနှင့် ချပ်ဝတ်တန်ဆာ) များတွင်သာ အလုပ်လုပ်ပါသည်။ Tool, Weapon သို့မဟုတ် Building တွင် မသုံးပါနှင့်။",
+    "tip_mm": "Crafting Outfit နှင့် နေ့စဉ် Farming ဝတ်စုံများ ချုပ်လုပ်ရာတွင် အတွင်းခံ Lining နေရာ၌ ထည့်သွင်းပါ။"
+  },
+  {
+    "id": "gb_heat_resistant_fiber",
+    "name": "Heat-Resistant Fiber",
+    "source_material": "Volcanic Stalk / Magma-Touched Hide",
+    "valid_targets": ["Outfit"],
+    "outcomes": [
+      {
+        "name": "Thermal Barrier",
+        "stat_highlight": "Heat & Env Resistance UP",
+        "description_mm": "Volcano Island နှင့် Desert Island များ၏ အပူဒဏ်ကို ခံနိုင်ရည် (Thermal Resistance) သိသိသာသာ တိုးမြှင့်ပေးသည်။"
+      },
+      {
+        "name": "Tempered Defense",
+        "stat_highlight": "Armor Defense Bonus",
+        "description_mm": "အပူဒဏ်ခံနိုင်ရည်အပြင် ဝတ်စုံ၏ အခြေခံ Defense တန်ဖိုးကိုပါ ပူးတွဲမြှင့်တင်ပေးသည်။"
+      }
+    ],
+    "warning_mm": "Outfit သီးသန့်ဖြစ်သည်။ Weapon, Tool သို့မဟုတ် Building များတွင် ထည့်သုံးပါက အလုပ်မလုပ်ပါ။",
+    "tip_mm": "Volcano Island တွင် Black Iron Ore တူးဖော်ရန်အတွက် Scale Modification နှင့် ပေါင်းစပ်ဝတ်ဆင်ပါက အလွန်လုံခြုံသည်။"
+  },
+  {
+    "id": "gb_monolith_grain",
+    "name": "Monolith Grain",
+    "source_material": "Rare Volcanic Granite / Ancient Pillar Timber",
+    "valid_targets": ["Building"],
+    "outcomes": [
+      {
+        "name": "Fortified Structure",
+        "stat_highlight": "Building Max Durability UP",
+        "description_mm": "အဆောက်အဦနှင့် Workbench များ၏ Durability ကို အမြင့်ဆုံး မြှင့်တင်ပေးပြီး Savage Island ခံတပ်များအတွက် အထူးသင့်တော်သည်။"
+      },
+      {
+        "name": "Weatherproof Frame",
+        "stat_highlight": "Decay Speed Reduction",
+        "description_mm": "အချိန်ကြာလာသည်နှင့်အမျှ အဆောက်အဦ ဟောင်းနွမ်းပျက်စီးနှုန်းကို လျှော့ချပေးသည်။"
+      }
+    ],
+    "warning_mm": "Building ဆောက်လုပ်ရေးအတွက်သာ သီးသန့်ဖြစ်သည်။ Gear (Tool, Weapon, Outfit) တွင် မသက်ရောက်ပါ။",
+    "tip_mm": "Heavy Construction ဝတ်စုံ ဝတ်ဆင်ပြီး ဤ Green Buff ပါသော Granite/Pillar ဖြင့် အဓိက ခံတပ်နံရံများ တည်ဆောက်ပါ။"
+  }
+]

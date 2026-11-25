@@ -1,0 +1,101 @@
+[
+  {
+    "id": "item_black_iron_ore",
+    "name": "Black Iron Ore",
+    "category": "Materials",
+    "rarity": "Green",
+    "location": "Volcano Island (Near Lava Veins)",
+    "key_attributes": ["Firm", "High Density", "Pioneer Material", "Black Sheen (Rare)"],
+    "requirements_mm": "Thermal Resistance Buff နှင့် အဆင့်မြင့် Pickaxe လိုအပ်သည်။",
+    "description_mm": "Volcano Island ၏ ချော်ရည် (Lava) အနီးတစ်ဝိုက်တွင်သာ တွေ့ရှိရသော ထိပ်တန်းသတ္တုရိုင်းဖြစ်သည်။ Firm, High Density နှင့် Pioneer Material များ ပါဝင်ပြီး ရှားပါးစွာ Black Sheen Green Buff ကျနိုင်သည်။",
+    "farming_tip_mm": "Nov 20 Metal Combining စည်းမျဉ်းအရ Hammer Work ပါသော Chunk ၂ ခု ပေါင်းစပ်ရာတွင် Low Density မတက်တော့သောကြောင့် Black Iron Ore များကို သတ္တုချောင်းအဖြစ် သွန်းလောင်းပြီး ပေါင်းစပ်အသုံးပြုပါ။"
+  },
+  {
+    "id": "item_para_rib",
+    "name": "Parasaurolophus Rib",
+    "category": "Materials",
+    "rarity": "Green",
+    "location": "Temperate / Savanna / High-Level Unstable Islands",
+    "key_attributes": ["High Density", "Compact Structure", "Narrow Hook Shape (Rare)"],
+    "requirements_mm": "Slaughter Ability Lv. 4 (Normal Cheese) နှင့် Green Bone Work Axe/Knife။",
+    "description_mm": "Green Bone Axe နှင့် Bow/Crossbow Limb ပြုလုပ်ရာတွင် လူကြိုက်အများဆုံး အရိုး Material ဖြစ်သည်။ Work Count မြင့်မားပြီး Trim + Compress လုပ်ရာတွင် Durability အလွန်ကောင်းသည်။",
+    "farming_tip_mm": "မခွာမီ ရိုးရိုး Cheese စားထားပြီး Secrets of Gathering ပါသော Knife ဖြင့် ခွာပါက Green Buff ကျနိုင်ခြေ သိသိသာသာ တိုးလာမည်။"
+  },
+  {
+    "id": "item_thick_leather",
+    "name": "Thick Leather",
+    "category": "Materials",
+    "rarity": "Yellow",
+    "location": "Heavy Herbivores / Carnivores (Stegosaurus, Mammoth, T-Rex)",
+    "key_attributes": ["Firm", "High Density", "Heat-Resistant Fiber (Rare)"],
+    "requirements_mm": "Tanning & Hide Drying Rack (v10.13 Hide Limits restored)။",
+    "description_mm": "Heavy Construction ဝတ်စုံနှင့် အဆင့်မြင့် Defense Armor များ ချုပ်လုပ်ရာတွင် မရှိမဖြစ် လိုအပ်သော သားရေထူဖြစ်သည်။ v10.13 အပ်ဒိတ်တွင် Hide Level Limit များကို တိကျစွာ ပြန်လည်ပြင်ဆင်ပေးထားသည်။",
+    "farming_tip_mm": "Construction ဝတ်စုံအတွက် Firm ဦးစားပေးပြီး Combat Armor အတွက် High Density + Scale I/II/III Modification ထည့်သွင်းပါ။"
+  },
+  {
+    "id": "item_granite",
+    "name": "Granite",
+    "category": "Materials",
+    "rarity": "Yellow",
+    "location": "Volcano / Mountainous High-Level Islands",
+    "key_attributes": ["High Density", "Firm", "Monolith Grain (Rare)"],
+    "requirements_mm": "High Durability Pickaxe + Salt Seasoned Food (STR/PER)။",
+    "description_mm": "ခိုင်ခံ့သော အဆောက်အဦများ၊ ခံတပ်နံရံများနှင့် အဆင့်မြင့် Furnace/Workbench များ တည်ဆောက်ရာတွင် အသုံးပြုသည့် ကျောက်မာဖြစ်သည်။",
+    "farming_tip_mm": "Wide Serration Shape (Extra Extra) ပါသော Pickaxe ဖြင့် တူးဖော်ပါက အပို ၁၀% ကျနိုင်ခြေ ရရှိမည်။"
+  },
+  {
+    "id": "item_volcano_island",
+    "name": "Volcano Island",
+    "category": "Islands",
+    "rarity": "Red",
+    "location": "Endgame Unstable Archipelago (Lv. 60+)",
+    "key_attributes": ["Thermal Resistance Required", "Black Iron Ore", "Obsidian", "Lava Hazard"],
+    "requirements_mm": "Thermal Resistance Buff (Heat-Resistant Outfit + Chilled Juice) မဖြစ်မနေ လိုအပ်သည်။",
+    "description_mm": "Black Iron Ore, Volcanic Obsidian နှင့် အဆင့်မြင့် Boss များ တည်ရှိရာ အပူချိန်အလွန်မြင့်မားသော ကျွန်းဖြစ်သည်။ အပူကာကွယ်မှု မရှိပါက Heatstroke ဖြစ်ပြီး HP/Energy အမြန်ကျဆင်းသည်။",
+    "farming_tip_mm": "ချော်ရည်အနီး Black Iron Ore တူးဖော်စဉ် Cooling Food Buff အချိန်ကို အမြဲစောင့်ကြည့်ပြီး Pet Inventory တွင် အရန်ရေနှင့် အစားအစာ ဆောင်ထားပါ။"
+  },
+  {
+    "id": "item_tundra_island",
+    "name": "Tundra Island",
+    "category": "Islands",
+    "rarity": "Yellow",
+    "location": "Frozen Northern Archipelago (Lv. 50–60)",
+    "key_attributes": ["Cold Resistance Required", "Mammoth Hide", "Ice Crystals", "Hardwood"],
+    "requirements_mm": "Cold Resistance Buff (Warm Fur Outfit + Warm Bone Broth / Chili Stew)။",
+    "description_mm": "အအေးဒဏ်ပြင်းထန်သော ရေခဲကျွန်းဖြစ်ပြီး Mammoth အရိုး၊ သားရေထူနှင့် ရှားပါး အအေးပိုင်း Material များ ထွက်ရှိသည်။",
+    "farming_tip_mm": "အအေးဒဏ်ခံနိုင်ရည် မလုံလောက်ပါက Energy ကုန်နှုန်း ၂ ဆ တက်နိုင်သဖြင့် Warm Broth နှင့် Bonfire ပစ္စည်းများ အမြဲယူဆောင်သွားပါ။"
+  },
+  {
+    "id": "item_desert_island",
+    "name": "Desert Island",
+    "category": "Islands",
+    "rarity": "Yellow",
+    "location": "Arid Southern Archipelago (Lv. 50–60)",
+    "key_attributes": ["Heat Resistance Required", "Sandstone", "Oasis Herbs", "Rare Salt"],
+    "requirements_mm": "Heat Resistance Buff + လုံလောက်သော ရေနှင့် Cooling Drink။",
+    "description_mm": "နေ့ဘက်တွင် အပူချိန်အလွန်ပြင်းထန်သော သဲကန္တာရကျွန်းဖြစ်ပြီး Salt, Desert Herbs နှင့် ရှားပါး တွင်းထွက်များ ရရှိနိုင်သည်။",
+    "farming_tip_mm": "Oasis ရေအိုင်များအနီးတွင် စခန်းချပြီး Salt Seasoned Pizza ချက်ပြုတ်ရန် Rock Salt များ စုဆောင်းပါ။"
+  },
+  {
+    "id": "item_trex_boss",
+    "name": "T-Rex Boss (Index / Alpha)",
+    "category": "Dinosaurs",
+    "rarity": "Red",
+    "location": "Lv. 60 Unstable / Volcano / Savage Raid Zones",
+    "key_attributes": ["20% Damage Share Rule", "Active Aggro Range Required", "Apex Bone & Hide"],
+    "requirements_mm": "Black Sheen Weapon (Vital Strike) + Scale II/III Armor + Combat Range ထိန်းသိမ်းမှု။",
+    "description_mm": "XD Lands ၏ အပြင်းထန်ဆုံး Boss များထဲမှ တစ်ကောင်ဖြစ်ပြီး ထိပ်တန်း Apex Bone, Thick Leather နှင့် Title Reward များ ကျဆင်းသည်။",
+    "farming_tip_mm": "XD Lands Boss စည်းမျဉ်းအရ Aggro ပျောက်နေချိန် သို့မဟုတ် Out-of-Reach အကွာအဝေးမှ Ranged ပစ်ခတ်မှုများသည် 20% Damage Share နှင့် Title Reward ထဲတွင် ထည့်တွက်မည်မဟုတ်ပါ။ တိုက်ပွဲအကွာအဝေးအတွင်းမှ တရားဝင် တိုက်ခိုက်ပါ။"
+  },
+  {
+    "id": "item_savage_island",
+    "name": "Savage Island (Clan PvP)",
+    "category": "Islands",
+    "rarity": "Red",
+    "location": "Clan War Frontier (Lv. 60 Endgame)",
+    "key_attributes": ["Clan Territory", "Banner Drop on Swim", "No Neutral Catapult", "Top Tier Loot"],
+    "requirements_mm": "Clan Party + PvP Armor + Sashimi Energy Stack။",
+    "description_mm": "Clan အချင်းချင်း နယ်မြေလု တိုက်ခိုက်ရသော အဆင့်မြင့် PvP ကျွန်းဖြစ်သည်။ အဖိုးတန် Pioneer Material နှင့် Rare Node များ ပေါများသည်။",
+    "farming_tip_mm": "v10.13 စည်းမျဉ်းအရ ရေကူးပါက Banner သည် ကမ်းစပ်တွင် ကျန်ရစ်ခဲ့မည်ဖြစ်ပြီး Neutral Ground မှနေ၍ Catapult ပစ်ခတ်ခွင့် ပိတ်ပင်ထားပါသည်။"
+  }
+]
