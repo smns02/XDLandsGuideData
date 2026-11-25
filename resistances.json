@@ -1,0 +1,68 @@
+[
+  {
+    "id": "max_resistance_blueprint",
+    "name_en": "Max Resistance ထည့်သွင်းနည်း (Master Formula)",
+    "zone_en": "All Extreme Islands (Volcano / Tundra / Desert / Swamp)",
+    "status_effect_mm": "Resistance မပြည့်ပါက Fatigue (ပင်ပန်းနွမ်းနယ်မှု) အလွန်အမင်း မြန်မြန်တက်ခြင်း၊ Energy ကုန်မြန်ခြင်းနှင့် Burn/Hypothermia ဒဏ်များ ခံရမည်။",
+    "base_gear_mm": "၁။ Base Outfit + Hat + Boots/Accessories (၃ နေရာလုံး) ကို သက်ဆိုင်ရာ ကျွန်းအတွက် သီးသန့်ထုတ်ထားသော Set (ဥပမာ - Thermal Resistance Boots/Accessories, Winter Outfit, Desert Outfit) ရွေးချယ်ပါ။",
+    "key_attributes_mm": "၂။ Main Slot စည်းကမ်း - ချုပ်လုပ်ရာတွင် ပထမဆုံးအကွက် (Slot 1 / Main Material) မှ Attribute သာ အဝတ်အစားထဲ ကူးပြောင်းသည်။ ကျန်အကွက်များတွင် ဈေးကြီးသော Resistance ပစ္စည်းထည့်ပါက အလဟဿဖြစ်မည်။",
+    "modifications_and_tech_mm": "၃။ Outfit Modify + Tech Support (Reform) - Tailoring Skill Tree မှ Resistance Modify များ (ဥပမာ - Breathability, Windbreak, Padding/Insulation) ထည့်ပြီး Lv. 60 Personal Research Center တွင် Tech Support (Reform) ဖြင့် Resistance Slot များ ထပ်မံမြှင့်တင်ပါ။",
+    "food_and_consumables_mm": "၄။ Food + Environment Buff - ကျွန်းပေါ်မတက်မီ သက်ဆိုင်ရာ Resistance Food/Juice စားထားပြီး ခဏနားချိန်တွင် Tent/Campfire (Cozy & Home Buff) ဖြင့် Fatigue ပြန်ချပါ။",
+    "max_stack_formula_mm": "အမြင့်ဆုံး Resistance = Base Specialized Outfit (Slot 1 High-Lv Material) + Specialized Hat + Specialized Boots/Accessories + Tailoring Resistance Modify (Skill +20 Best Odds) + Lv. 60 Personal Research Center Tech Support Reform + Resistance Food/Drink Buff"
+  },
+  {
+    "id": "thermal_volcanic_resistance",
+    "name_en": "Thermal / Volcanic Heat Resistance",
+    "zone_en": "Volcano / Vulkan Island & Lava Areas",
+    "status_effect_mm": "မီးတောင်ကျွန်းနှင့် ချော်ရည်အနားတွင် အပူရှပ်ခြင်း၊ Fatigue အမြန်တက်ခြင်းနှင့် မီးလောင်ဒဏ် (Burn - HP ဆက်တိုက်ကျခြင်း) ဖြစ်စေသည်။ Burn မိပါက အနီးဆုံးရေထဲ ချက်ချင်းဆင်းပါ။",
+    "base_gear_mm": "Thermal Resistance Outfit, Thermal Resistance Boots နှင့် Thermal Resistance Accessories များကို အဓိကတွဲဖက်ဝတ်ဆင်ပါ။",
+    "key_attributes_mm": "Dense Surface (Volcanic Heat Resistance +1 per level) ပါသော Lv. 55-60 ကုန်ကြမ်းကို Slot 1 (Main Slot) တွင် ထည့်ချုပ်ပါ။",
+    "modifications_and_tech_mm": "Thermal / Heat Insulation Modify များနှင့် Lv. 60 Personal Research Center မှ Tech Support (Reform) ဖြင့် Thermal Resistance Buff (+50 အထက်ထိ) ထပ်တင်နိုင်သည်။",
+    "food_and_consumables_mm": "ရေဓာတ်နှင့် အအေးဓာတ်ပေးသော Juice များ၊ Thermal/Heat Resistance ဟင်းများ ဆောင်ထားပါ။",
+    "max_stack_formula_mm": "Volcano Black Iron Ore တူးရန် Thermal Resistance +50 ဝန်းကျင်ရှိပါက Fatigue တက်နှုန်းကို ကောင်းစွာထိန်းနိုင်သည်။ ချော်ရည်ထဲ မတော်တဆ မနင်းမိအောင် သတိပြုပါ။"
+  },
+  {
+    "id": "cold_resistance",
+    "name_en": "Cold Resistance",
+    "zone_en": "Tundra / Snowy Islands",
+    "status_effect_mm": "အအေးဒဏ်ကြောင့် Fatigue မြန်မြန်တက်ခြင်း၊ ရေစို (Wet) နေပါက ကိုယ်အပူချိန် ပိုကျပြီး အအေးဒဏ် ပိုပြင်းထန်စေသည်။",
+    "base_gear_mm": "Winter / Fur Outfit, Fur Hat နှင့် Cotton Layer ပါသော အနွေးထည် Set များ ဝတ်ဆင်ပါ။",
+    "key_attributes_mm": "Warm / Thick Fur Attribute ပါသော သားမွေး သို့မဟုတ် Cotton ကို Slot 1 (Main Slot) တွင်သာ အဓိကထည့်ပါ (Thread နှင့် Cloth နှစ်ခုလုံး Cotton သုံးရန် မလိုပါ)။",
+    "modifications_and_tech_mm": "Padding / Fur Lining Modify များ ထည့်သွင်းပြီး လိုအပ်ပါက Personal Research Center တွင် Cold Resistance Tech Support ထပ်ထည့်ပါ။",
+    "food_and_consumables_mm": "ပူနွေးသော Stew / Soup / Roasted Meat များ စားသုံးပြီး ညဘက်တွင် Campfire (Cozy Buff) အနား၌ အနားယူပါ။",
+    "max_stack_formula_mm": "Winter Outfit + Fur Hat + Padding Modify + Hot Soup တွဲသုံးပါက Lv. 60 Tundra တွင် အေးအေးဆေးဆေး Farm နိုင်သည်။"
+  },
+  {
+    "id": "heat_sun_resistance",
+    "name_en": "Heat & Scorching Sun Resistance",
+    "zone_en": "Desert / Savanna Islands",
+    "status_effect_mm": "နေပူရှိန်ပြင်းထန်မှုကြောင့် ရေငတ်ခြင်း (Thirst) နှင့် Fatigue အမြန်တက်ခြင်း ဖြစ်ပေါ်သည်။ ရေစို (Wet) နေခြင်းက ပူပြင်းသောကျွန်းတွင် ကိုယ်အပူချိန်ကို သက်သာစေသည်။",
+    "base_gear_mm": "Desert Outfit, Breathable Linen/Hemp အဝတ်အစားများနှင့် နေကာဦးထုပ်များ ဝတ်ဆင်ပါ။",
+    "key_attributes_mm": "Cool / Breathable Attribute ပါသော Lv. 55-60 အထည်စကို Main Slot (Slot 1) တွင် ထည့်ချုပ်ပါ။",
+    "modifications_and_tech_mm": "Cooling / Breathability Modify များနှင့် Personal Research Center Tech Support ဖြင့် Heat Resistance တင်ပါ။",
+    "food_and_consumables_mm": "ရှားစောင်းလက်ပပ်ဖျော်ရည် (Cactus Juice - အဆိပ်ရှိသော Cactus မသုံးရ) သည် Desert Fatigue ကို အထိရောက်ဆုံး လျှော့ချပေးသည်။ ရေဗူး (Water Bottle) အမြဲဆောင်ပါ။",
+    "max_stack_formula_mm": "Desert Outfit + Sun Hat + Cooling Modify + Cactus Juice + Water Bottle"
+  },
+  {
+    "id": "humidity_moisture_resistance",
+    "name_en": "Humidity / Moisture Resistance",
+    "zone_en": "Swamp / Tropical Rainforest Islands",
+    "status_effect_mm": "စိုထိုင်းဆနှင့် ရွှံ့နွံကြောင့် Wet / Dirty Status ဖြစ်ကာ Fatigue မြန်မြန်တက်စေသည်။",
+    "base_gear_mm": "Swamp Waders နှင့် ရေစိုခံ/လေဝင်လေထွက်ကောင်းသော Tropical/Swamp Outfit များ ဝတ်ဆင်ပါ။",
+    "key_attributes_mm": "Moisture-Resistant / Breathable Attribute ပါသော ကုန်ကြမ်းကို Slot 1 တွင် ရွေးထည့်ပါ။",
+    "modifications_and_tech_mm": "Personal Research Center (Lv. 60+) Tech Support တွင် 'Improve Breathability I' ကို ထည့်သွင်းခြင်းဖြင့် Humidity Resistance ကို သိသိသာသာ တိုးမြှင့်နိုင်သည်။",
+    "food_and_consumables_mm": "Dirty ဖြစ်ပါက ရေဆေးချပါ။ Herbal Tea နှင့် Swamp Resistance Food များ တွဲစားပါ။",
+    "max_stack_formula_mm": "Swamp Waders + Breathable Outfit + Improve Breathability Tech Support"
+  },
+  {
+    "id": "wind_and_oil_resistance",
+    "name_en": "Strong Wind & Oil Fog Resistance",
+    "zone_en": "Stormy / Windy Zones & Toxic Oil Zones",
+    "status_effect_mm": "လေပြင်းတိုက်သောနေရာတွင် လှုပ်ရှားမှုနှေးကွေး/Fatigue တက်စေပြီး၊ Oil Fog ဇုန်တွင် အဆိပ်ငွေ့ဒဏ် ခံရသည်။",
+    "base_gear_mm": "Oil Fog ဇုန်အတွက် 'Vine Work Outfit' (Oil Fog Resistance + Toxic Oil Resistance + Stealth Buff) ကို ဝတ်ဆင်ပါ။",
+    "key_attributes_mm": "Windbreak / Dense Fabric Attribute များကို Main Slot တွင် ထည့်သုံးပါ။",
+    "modifications_and_tech_mm": "Personal Research Center (Lv. 60+) Tech Support တွင် 'Modify Windbreak I' ကို ထည့်သွင်းခြင်းဖြင့် Wind Resistance ကို မြှင့်တင်နိုင်သည်။",
+    "food_and_consumables_mm": "Energy ပြန်ဖြည့်ရန် Sashimi နှင့် ရေသန့် အမြဲဆောင်ထားပါ။",
+    "max_stack_formula_mm": "Wind Zone အတွက် Modify Windbreak Tech Support၊ Oil Zone အတွက် Vine Work Outfit ကို အဓိကထား ဝတ်ဆင်ပါ။"
+  }
+]
