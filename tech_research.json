@@ -1,0 +1,63 @@
+[
+  {
+    "id": "personal_research_tech_support",
+    "name_en": "Personal Research Center & Tech Support (Gear Reform)",
+    "category": "Personal Tech (Lv. 60+)",
+    "unlock_requirement_mm": "Character Level 60 ရောက်ရှိရမည်ဖြစ်ပြီး မိမိ Domain ပေါ်တွင် Personal Research Center (Lv. 60+) တည်ဆောက်ထားရမည်။",
+    "how_it_works_mm": "Craft လုပ်ပြီးသား Weapon, Tool နှင့် Outfit များ၏ Reform Slot ထဲသို့ အထူးစွမ်းရည် Buff များ (ဥပမာ - Nail Spikes, Improve Breathability, Modify Windbreak, Ability/Defense/Resistance Buff များ) ကို ထပ်မံတပ်ဆင်မြှင့်တင်ပေးသော စနစ်ဖြစ်သည်။",
+    "steps_mm": [
+      "၁။ မိမိ Domain ပေါ်တွင် Personal Research Center ကို ဆောက်လုပ်ပါ။",
+      "၂။ Research Center ကို နှိပ်ပြီး Tech Support (Reform) လုပ်လိုသော Weapon / Tool / Outfit ကို ရွေးချယ်ပါ။",
+      "၃။ Paid Estimate (ရလဒ်ကြိုကြည့်ခြင်း) ဖြင့် ထွက်လာမည့် Buff Tag များကို စစ်ဆေးပါ။",
+      "၄။ ကြိုက်နှစ်သက်သော Tag ကို Lock ချထားပြီး ကျန် Slot များကို ထပ်မံ Roll လုပ်နိုင်သည်။",
+      "၅။ Accept နှိပ်လိုက်သည်နှင့် ၁၀၀% အောင်မြင်ပြီး ပစ္စည်းပေါ်သို့ Reform Buff တန်းဝင်သွားမည်။"
+    ],
+    "cost_and_rules_mm": "Paid Estimate ကုန်ကျစရိတ် - ပထမအကြိမ် 2,000 T-Stone (ထပ်ကြည့်တိုင်း +10% စီတိုး) × (1 + Lock ချထားသော Tag အရေအတွက်) + Code Snippets 20 ခု လိုအပ်သည်။ Estimate ရလဒ်ကို မိနစ် ၃၀ ထိန်းထားပေးပြီး Accept လုပ်ပါက ၁၀၀% အောင်မြင်သည်။ Slot အလွတ်ပြန်ဖယ်ရန် 50 Warp Gems ကုန်ကျသည်။",
+    "warnings_mm": "အရေးကြီးသတိပြုရန် - Tech Support (Reform) သည် သီးခြား Pool ဖြစ်သောကြောင့် Green (Rare) Attribute အသစ် မပေးနိုင်သလို ရှိပြီးသား Green Buff ကိုလည်း မဖျက်ပစ်ပါ။ Green Buff လိုချင်ပါက Rare Material ဖြင့် အသစ် Craft လုပ်မှသာ ရမည်။"
+  },
+  {
+    "id": "clan_research_centers",
+    "name_en": "Clan Research Centers (Clan Tech System)",
+    "category": "Clan Tech",
+    "unlock_requirement_mm": "Clan တစ်ခုထဲ ဝင်ထားရမည် (သို့မဟုတ် ကိုယ်ပိုင် Clan ထောင်ထားရမည်)။ Clan Level အလိုက် Research Center အဆောက်အဦများ ပွင့်လာသည် (ဥပမာ - Clan Lv. 13 တွင် Combat Research Center ဖွင့်နိုင်သည်)။",
+    "how_it_works_mm": "Clan Territory / Outpost ပေါ်တွင် Research Center အမျိုးအစားအလိုက် တည်ဆောက်ပြီး Clan Member များ စုပေါင်းကုန်ကြမ်းလှူဒါန်း သုတေသန (Research) လုပ်ခြင်းဖြင့် Clan တစ်ခုလုံးအတွက် Passive Buff များနှင့် အဆင့်မြင့် Tech များ ပွင့်လာစေသည်။",
+    "steps_mm": [
+      "၁။ Clan Menu → Research ထဲဝင်ပြီး လိုအပ်သော Research Center အမျိုးအစားကို စစ်ဆေးပါ။",
+      "၂။ Clan Territory ပေါ်တွင် Crafting Research Center, Exploration Research Center, Collection Research Center, Combat Research Center နှင့် Advanced Research Center များကို အဆင့်လိုက် ဆောက်လုပ်ပါ။",
+      "၃။ Research တစ်ခုကို စတင်ရန် Member များက လိုအပ်သော Material များ (သစ်၊ ကျောက်၊ Vinyl Fabric စသည်) နှင့် Clan Points များ စုပေါင်းထည့်ဝင်ပါ။",
+      "၄။ Research Timer ပြည့်သွားသည်နှင့် Clan Member အားလုံး ထို Tech Buff ကို အလိုအလျောက် ရရှိခံစားနိုင်မည်။"
+    ],
+    "cost_and_rules_mm": "Clan Research များကို အဓိက လိုင်း ၄ ခုခွဲထားသည် - (၁) Crafting Research (Craft Ability/Efficiency), (၂) Collection Research (Gathering/Slaughter), (၃) Exploration Research (Warp/Survival/Domain), (၄) Combat Research (PvP/Savage Island War & Defense)။",
+    "warnings_mm": "Clan မှ ထွက်လိုက်ပါက ထို Clan ၏ Research Buff များ ဆက်မရတော့ပါ။ ထို့ကြောင့် Active ဖြစ်သော Clan တွင် ပါဝင်ခြင်းက End-game တွင် အလွန်အရေးပါသည်။"
+  },
+  {
+    "id": "attribute_transfer_and_craft_tech",
+    "name_en": "Attribute Transfer & Unstable Index Tech",
+    "category": "Core Mechanics",
+    "unlock_requirement_mm": "Level မရွေး Crafting နှင့် Gathering လုပ်သူတိုင်း သိထားရမည့် XD Lands အခြေခံနည်းပညာ။",
+    "how_it_works_mm": "XD Lands တွင် ကုန်ကြမ်းပေါ်က Yellow/Green Attribute များ အပြီးသတ် Gear ထဲ ဘယ်လိုကူးပြောင်းသလဲဆိုသည့် တိကျသော တွက်ချက်မှုစနစ်ဖြစ်သည်။",
+    "steps_mm": [
+      "၁။ Main Slot Rule - Recipe ၏ ပထမဆုံးအကွက် (Slot 1) မှ Attribute သာ Gear ထဲ ကူးသည်။ လက်ကိုင် (Handle) တွင် Green Bone ထည့်သော်လည်း ဘာမှအကျိုးမရှိပါ။",
+      "၂။ Averaging & Cancellation - Slot 1 တွင် ပစ္စည်းအများအပြား ထည့်ရပါက ပျမ်းမျှ floor(sum / pieces) ယူပြီး ဆန့်ကျင်ဘက်များ ချေဖျက်သည် (ဥပမာ - Firm 4 + Soft 2 = Firm 2)။",
+      "၃။ Unstable Island Index - Index 1-5 သည် Material ၏ Yellow Attribute ကို (base + index - 1) တိုးပေးသည်။ Index 6-8 သည် Flawless ကျမှသာ တိုးပေးသည်။",
+      "၄။ Bonus Roll - Ore နှင့် Bone သည် 10% အခွင့်အရေးဖြင့် Lv. 4 Attribute အပို ၁ ခု၊ Hide သည် Lv. 2 Attribute အပို ၁ ခု ထပ်ကျနိုင်သည်။",
+      "၅။ Green Draw - Green Buff ကျနှုန်းသည် ပုံမှန် 1/1,000 (အကောင်ကြီး 2/1,000) ဖြစ်ပြီး Craft နှိပ်သည့်အချိန်မှသာ ၂ မျိုးထဲက ၁ မျိုးကို ကျပန်းရွေးချယ်သည်။"
+    ],
+    "cost_and_rules_mm": "Great Success ကျပါက Weapon တွင် Attack +1၊ Tool တွင် Durability +1၊ Life Outfit တွင် သက်ဆိုင်ရာ Job Ability +1 အပိုရသည်။",
+    "warnings_mm": "Preview တွင် အစိမ်းရောင် '?' ပြနေခြင်းမှာ Craft မပြီးမချင်း မည်သည့် Green Outcome ကျမည်ကို မဆုံးဖြတ်ရသေးသောကြောင့် ဖြစ်သည်။"
+  },
+  {
+    "id": "skill_tree_tech_system",
+    "name_en": "Personal Skill Tree & SP Reset Tech",
+    "category": "Personal Tech",
+    "unlock_requirement_mm": "Character Level 1 မှ 60 အထိ Skill Points (SP) များဖြင့် ဖွင့်လှစ်နိုင်သည်။",
+    "how_it_works_mm": "Survival, Butchering, Gathering, Processing, Weapon/Tool, Ranged, Melee, Defense, Construction, Farming, Tailoring, Cooking ဟူ၍ Skill လိုင်း ၁၂ ခု ရှိပြီး မိမိကစားပုံအလိုက် SP ခွဲဝေသင်ယူရသည်။",
+    "steps_mm": [
+      "၁။ Menu → Skill ထဲဝင်ပြီး ကိုယ်အဓိကထားလိုသော Career လိုင်း ၂-၃ ခုကို ရွေးချယ်သင်ယူပါ (SP အကန့်အသတ်ရှိ၍ အားလုံးတစ်ပြိုင်တည်း အပြည့်မသင်နိုင်ပါ)။",
+      "၂။ Craft / Modify လုပ်မည့် Skill ၏ Difficulty ထက် မိမိ Ability +20 ကျော်နေအောင် Skill Level + Outfit + Food ချိန်ညှိပါ။",
+      "၃။ မလိုအပ်တော့သော Skill များကို Unlearn လုပ်၍ SP ပြန်ထုတ်ပြီး လိုအပ်သော လိုင်းအသစ်သို့ ပြောင်းလဲသင်ယူနိုင်သည်။"
+    ],
+    "cost_and_rules_mm": "Craft လုပ်ရာတွင် Great Success 5% က အမြင့်ဆုံး Level ပေးပြီး Mistake 15% က အနိမ့်ဆုံး Level အောက် ၁ ဆင့် လျော့ကျစေသည်။",
+    "warnings_mm": "Solo ကစားသူများအတွက် Combat ၁ လိုင်း + Gathering/Slaughter ၁ လိုင်း + Crafting (Weapon သို့မဟုတ် Tailoring/Construction) ၁ လိုင်း ရွေးချယ်ထားခြင်းက အသင့်တော်ဆုံးဖြစ်သည်။"
+  }
+]
