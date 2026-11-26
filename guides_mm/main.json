@@ -1,1 +1,59 @@
 
+{
+  "title": "ဂိမ်းထည့်သွင်းနည်းနှင့် ကစားနည်း (How to Play)",
+  "subtitle": "Android၊ PC နှင့် iPhone တို့တွင် XD Lands ကို အခမဲ့ ထည့်သွင်းနည်း၊ Update လုပ်နည်းနှင့် အကောင့်ချိတ်ဆက်နည်း။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Android ဖုန်း သို့မဟုတ် Tablet တွင် ထည့်သွင်းနည်း"
+    },
+    {
+      "type": "paragraph",
+      "text": "Android ဖုန်း သို့မဟုတ် Tablet အတွက် Launcher ဖိုင်သည် 2 MB ခန့်သာ ရှိပြီး ဂိမ်းဖိုင်အပြည့်အစုံကို Launcher ထဲမှတစ်ဆင့် ဆက်လက် Download ဆွဲပေးမည်ဖြစ်သည်။"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "၁။ Launcher ကို Download ဆွဲပါ — XD Lands Launcher ကို Download ဆွဲပြီး ဖိုင်ကိုဖွင့်ပါ။ Android မှ ခွင့်ပြုချက်တောင်းလာပါက Browser မှတစ်ဆင့် App ထည့်သွင်းခွင့် (Allow installs from your browser) ကို ဖွင့်ပေးပါ။",
+        "၂။ အကောင့်ဝင်ပါ (Sign in) — Discord သို့မဟုတ် Google အကောင့်ဖြင့် ဝင်ရောက်ပါ။ သင့် Character များသည် ထိုအကောင့်တွင် သိမ်းထားသောကြောင့် အမြဲတမ်း အကောင့်တစ်ခုတည်းကိုသာ ပြန်သုံးပါ။",
+        "၃။ ထည့်သွင်းပြီး ကစားပါ (Install and play) — Launcher က ဂိမ်းကို အလိုအလျောက် Download ဆွဲပေးပါမည်။ နောက်ပိုင်း Update များကိုလည်း Launcher ထဲရှိ Update ခလုတ်မှတစ်ဆင့် တင်နိုင်ပါသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ဂိမ်းကို Update အမြဲတင်ထားနည်း (Keeping It Up to Date)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Android နှင့် PC — XD Lands Launcher ကိုဖွင့်ပြီး Update အသစ်ပေါ်လာသည့်အခါ Update ခလုတ်ကို နှိပ်ပါ။",
+        "iPhone (AltStore သို့မဟုတ် SideStore) — My Apps ကိုဖွင့်ပြီး Update ကို နှိပ်ပါ။ (Refresh ခလုတ်သည် 7-day signature သက်တမ်းတိုးရုံသာ ဖြစ်သည်။)",
+        "iPhone (XD Lands Setup) — iPhone ကို PC နှင့် ချိတ်ဆက်ပြီး Refresh ကို နှိပ်လိုက်ပါ — နောက်ဆုံးထွက်ဗားရှင်းအသစ်ကို အမြဲတမ်း ထည့်သွင်းပေးပါမည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "သင်၏ အကောင့် (Your Account)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discord သို့မဟုတ် Google အကောင့်ဖြင့် ဝင်ရောက်နိုင်ပါသည်။ သင့် Character များသည် ဝင်ရောက်ထားသည့် အကောင့်နှင့် တိုက်ရိုက်ချိတ်ဆက်ထားသည်။ သင်၏ Account စာမျက်နှာ (xdlands.com/akun) သို့မဟုတ် Launcher ၏ Settings ထဲတွင် Discord နှင့် Google နှစ်မျိုးလုံးကို ချိတ်ဆက် (Link) ထားလိုက်ပါက နောက်ပိုင်းတွင် ဘယ်နည်းနဲ့ဝင်ဝင် အဆင်ပြေပါမည်။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ဆက်လက်ဖတ်ရှုရန် လမ်းညွှန်များ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Your first hour — ဂိမ်းစဆော့မည့်သူများအတွက် အဆင့်ဆင့် အခြေခံလမ်းညွှန်။",
+        "Questions and fixes — ချိတ်ဆက်၍မရခြင်း သို့မဟုတ် Character များ ပျောက်နေခြင်းအတွက် ဖြေရှင်းနည်းများ။",
+        "Discord — XD Lands ၏ တရားဝင် Discord Community သို့ ဝင်ရောက်ရန်။"
+      ]
+    }
+  ]
+}
