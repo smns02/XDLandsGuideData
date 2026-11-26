@@ -1,1 +1,80 @@
 
+{
+  "title": "Crafting နှင့် Attributes လမ်းညွှန် (Crafting and Attributes)",
+  "subtitle": "Recipe နှင့် Blueprint များ၊ ထွက်လာမည့် ပစ္စည်း Level တွက်ချက်ပုံ၊ Attributes၊ Durability နှင့် ဆေးဆိုးနည်း (Dyeing)။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Recipes နှင့် Blueprints"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Recipes — Tool များ၊ လက်နက် (Weapon)၊ အဝတ်အစား၊ အစားအစာနှင့် ကုန်ကြမ်းများ ပြုလုပ်ရာတွင် သုံးသည်။ Menu > Craft / Build ကိုဖွင့်၍ လုပ်နိုင်ပြီး အချို့ပစ္စည်းများအတွက် အနီးနားတွင် Workbench၊ Kitchen သို့မဟုတ် Furnace ရှိရန် လိုအပ်သည်။",
+        "Blueprints — အဆောက်အဦနှင့် ပရိဘောဂ (Furniture) များ ဆောက်လုပ်ရာတွင် သုံးသည်။ Blueprint ချပါ၊ လိုအပ်သော ကုန်ကြမ်းများထည့်ပါ၊ ထို့နောက် Finish ကို နှိပ်ပါ။",
+        "သင်ယူခြင်း (Learning them) — သက်ဆိုင်ရာ Skill ကို သင်ယူလိုက်သည်နှင့် Recipe အသစ်များ ချက်ချင်းပွင့်လာပါမည်။",
+        "ရှာဖွေကြည့်ရှုခြင်း (Look it up) — Encyclopedia ထဲတွင် Recipe နှင့် Blueprint တိုင်းအတွက် လိုအပ်သောကုန်ကြမ်း၊ စားပွဲ (Bench) နှင့် Level များကို အသေးစိတ် ကြည့်နိုင်သည်။"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "မှတ်ချက် — Craft လုပ်နေစဉ် ပထမ ၁ စက္ကန့်ကျော်ပြီးနောက် အဝေးသို့ လျှောက်ထွက်သွားပါက Craft လုပ်ခြင်း ပျက်ပြယ်သွားပါမည်။ စားပွဲ (Table) တွင် ထိုင်နေလျှင်တော့ ပြဿနာမရှိပါ။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ထွက်လာမည့် ပစ္စည်း၏ Level (The Level of What You Make)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "ထွက်လာမည့် ပစ္စည်း၏ Level သည် ထည့်သုံးလိုက်သော ကုန်ကြမ်းများ၏ ပျမ်းမျှ Level (Average) အတိုင်း ဖြစ်သည်။",
+        "သို့သော် ထို Craft အတွက် သင်၏ ကိုယ်ပိုင် Skill Level ထက် ဘယ်တော့မှ မကျော်လွန်ပါ။",
+        "Camp များရှိ စားပွဲများ (Kitchen, Workbench) သည် ၎င်းတို့ပြထားသော Level အတိုင်း အလုပ်လုပ်သောကြောင့် Lv 40+ ကျွန်းများရှိ Camp များတွင် Lv 40 Recipe များကို လုပ်နိုင်ပါသည်။",
+        "Crafting လုပ်ရာတွင် မအောင်မြင်ခြင်း (Fail) ရှိနိုင်သကဲ့သို့ Great Success ထွက်ခြင်းမျိုးလည်း ဖြစ်နိုင်ပါသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Attributes (ပစ္စည်းဂုဏ်သတ္တိများ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ကုန်ကြမ်း (Materials) များတွင် ကိုယ်ပိုင် Attributes များပါရှိပြီး ၎င်းတို့သည် သင်လုပ်လိုက်သော ပစ္စည်းထဲသို့ ကူးပြောင်းပါဝင်သွားပါသည်။ Attribute တစ်ခုချင်းစီက ဘာ Stat ထပ်ပေါင်းပေးလဲဆိုတာကို Item Card ပေါ်တွင် ကြည့်နိုင်သည်။"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "မူလရင်းမြစ်မှ Attributes များ — သစ်လုံး (Log) များတွင် သက်ဆိုင်ရာသစ်ပင်၏ Attribute ပါလာသည် (ဥပမာ Mahogany — Beautiful Pattern)။ အသားဖျက်ထားသော အရိုးနှင့် သားရေများတွင်လည်း ထိုတိရစ္ဆာန်မျိုးစိတ်၏ Attribute ပါလာသည် (ဥပမာ Parasaurolophus အရိုး — Lightweight နှင့် Weak Structure)။ တူးယူရရှိသော သတ္တုရိုင်းနှင့် အသားဖျက်ထားသော အရိုးများတွင် Random Attribute တစ်ခုပါ အပိုပါလာတတ်သည်။",
+        "ပစ္စည်းအလိုက် ပြောင်းလဲခြင်း — Attribute တစ်ခုတည်းပင် ဖြစ်သော်လည်း ထည့်သုံးသည့်ပစ္စည်းပေါ် မူတည်၍ အကျိုးသက်ရောက်မှု ကွဲသွားတတ်သည် (ဥပမာ Full သည် လက်နက်ပေါ်တွင် Stun ဖြစ်သွားသည်)။",
+        "Green Attributes — Black Sheen နှင့် Low Vibration ကဲ့သို့သော ရှားပါး Green Attribute များသည် လက်နက်နှင့် Tool များပေါ်တွင် ၎င်းတို့၏ အထူးစွမ်းရည် (Special Attribute) အဖြစ် ပြောင်းလဲသွားသည်။",
+        "Gems နှင့် မျက်မှန်များ — Masterwork Topaz သည် Furniture Ability ပေးသည်။ Gem Glasses (ကျောက်မျက်မှန်) များသည် ကျောက်အမျိုးအစားအလိုက် Crafting နှင့် Gathering Ability များ တိုးပေးသည် — Ruby (Tailoring)၊ Sapphire (Plant Gathering, Mining, Butchering)၊ Emerald (Cooking, Farming)၊ Amethyst (Weapon Crafting)၊ Diamond (Handicraft, Armour Crafting)၊ Topaz (Construction)။",
+        "ကျွန်းအဆင့်မြင့်လေ ပိုကောင်းလေ — တိရစ္ဆာန်များ၏ အရိုးနှင့် သားရေ Attribute များသည် Island Index မြင့်လာသည်နှင့်အမျှ ပိုမိုအားကောင်းလာပါသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ပွန်းပဲ့ပျက်စီးခြင်းနှင့် ပြုပြင်ခြင်း (Wear and Repair)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "လက်နက် (Weapon) သည် တစ်ချက်တိုက်တိုင်း Durability 0.2 လျော့ပြီး သံချပ်ကာ (Armour) သည် တစ်ချက်အတိုက်ခံရတိုင်း 0.15 လျော့ပါသည်။",
+        "ပြုပြင် (Repair) လိုက်တိုင်း ပစ္စည်း၏ အမြင့်ဆုံး Maximum Durability လျော့ကျသွားသည် — Standard Kit ဖြင့် 6%၊ Practical Kit ဖြင့် 4%၊ Advanced Kit ဖြင့် 2% နှင့် Warp Gems ဖြင့် 4% လျော့ပါသည်။ Low Durability Attribute ပါသော ပစ္စည်းများသည် နှစ်ဆ (2x) ပိုလျော့သည်။",
+        "ပျက်သွားသော Tool များသည် ပျောက်မသွားဘဲ Repair Kit ဖြင့် ပြန်ပြင်နိုင်ပါသည်။ Tool များကို ၎င်းတို့၏ Level ထက် Level 10 ပိုမြင့်သော Node များအထိ အသုံးပြုနိုင်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ဆေးဆိုးခြင်း (Dyeing)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ဆေးဆိုးခြင်း (Dyeing) အတွက် သီးသန့် Dye Table ရှိပါသည်။ အရောင်ချွတ် (Bleach) နှစ်ကြိမ်လုပ်ထားသော ပစ္စည်းပေါ်တွင် ဆေးထပ်ဆိုးပါက မူလဂိမ်းအတိုင်း အရောင်ပိုရင့်သွားမည်ဖြစ်ပြီး ဤနည်းဖြင့် အနက်ရောင် (Black Dye) ကို ဖန်တီးနိုင်ပါသည်။"
+    }
+  ]
+}
