@@ -1,1 +1,137 @@
 
+{
+  "title": "Skill Points (SP) နှင့် Combat Stances လမ်းညွှန်",
+  "subtitle": "SP များ ဘယ်ကရလဲ၊ Skill အားလုံးဘာကြောင့် သင်လို့မလောက်တာလဲ၊ Stance Mastery နှင့် Skill Reset လုပ်နည်းများ။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "SP များ ဘယ်ကရသလဲ (Where SP Comes From)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Levels — Character Level တက်တိုင်း SP ရရှိပြီး Lv 60 ရောက်ချိန်တွင် မူလဂိမ်းအတိုင်း စုစုပေါင်း 827 SP ရရှိပါမည်။",
+        "Achievements — Lv 60 Milestone ၅၈ ခုမှ တစ်ခုလျှင် +1 SP စီနှင့် Career Master တစ်ခုချင်းစီမှ +3 SP စီ ရရှိသည်။ Story အဆင့်အချို့မှလည်း SP ရရှိနိုင်သည်။",
+        "စုစုပေါင်း — အားလုံးပေါင်း 950 SP ခန့် ရရှိပါမည်။"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ပြီးဆုံးသွားသော Achievement များသည် Menu > Tasks > Achievement အောက်တွင် စောင့်နေတတ်ပြီး Receive နှိပ်မှ SP ရရှိမည်ဖြစ်သည်။ မထုတ်ရသေးသော SP များရှိပါက ဂိမ်းထဲဝင် (Login) ချိန်တွင် တစ်ကြိမ် သတိပေးပါလိမ့်မည်။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Skill အားလုံးကို ဘာကြောင့် သင်လို့မလောက်တာလဲ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Skill Tree တစ်ခုလုံးကို သင်ယူရန် 3,200 SP ခန့် ကုန်ကျသောကြောင့် မူလဂိမ်းမှာကတည်းက မည်သူမျှ အကုန်မသင်နိုင်ပါ။ Fighter (တိုက်ခိုက်ရေး)၊ Crafter (ပစ္စည်းလုပ်)၊ Gatherer (ကုန်ကြမ်းရှာ) သို့မဟုတ် ရောနှောထားသည့် လမ်းကြောင်းတစ်ခုကို ရွေးချယ်ရပါသည်။ ဤစနစ်ကြောင့်ပင် ကစားသမားအချင်းချင်း အမှီသဟဲပြုကြရပြီး Market ဈေးကွက် အသက်ဝင်နေခြင်းဖြစ်သည်။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Combat Stances (တိုက်ခိုက်ရေးဟန်ပန်များ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "လက်နက်တိုင်းတွင် ကိုယ်ပိုင် Stance ဖြင့် တိုက်ခိုက်ရပြီး မည်သည့် Stance သုံးသုံး ထိုလက်နက်အတွက် သင်ထားပြီးသား Skill များ (Stab, Backstab, Cleave, Charge, Tackle, Aimed Shot စသည်) အားလုံးကို ဆက်လက်အသုံးပြုနိုင်သည်။ Stance တစ်ခုချင်းစီက ၎င်း၏အထူးစွမ်းရည်ကိုသာ ထပ်ပေါင်းပေးခြင်းဖြစ်သည်။"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "လက်နက်အမျိုးအစား (Weapon)",
+        "သုံးနိုင်သည့် Stances"
+      ],
+      "rows": [
+        [
+          "One-handed Sword, Axe, Club",
+          "Attack, Defense, Counter"
+        ],
+        [
+          "Two-handed Sword, Axe, Club",
+          "Attack, Defense, Berserk"
+        ],
+        [
+          "Lance",
+          "Attack, Blitz"
+        ],
+        [
+          "Bow, Crossbow",
+          "Shooting, Sniper"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Attack Stance သည် v10.2 မတိုင်မီက ပုံမှန်တိုက်ခိုက်ပုံအတိုင်း အတိအကျဖြစ်သောကြောင့် Stance အသစ်များ မသုံးချင်လျှင်လည်း ဘာမှမနစ်နာပါ။ Weapon Block သည် အချိန်ကိုက် Parry လုပ်ရသည့်စနစ်ဖြစ်ပြီး မိမိနေရာတွင် ရပ်တည်နေသရွေ့ 1.5 စက္ကန့်အတွင်း စတင်ဝင်လာသော တိုက်ခိုက်မှုများကို တားဆီးနိုင်ပါသည်။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Stance Mastery စနစ် (v10.3)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "SP မကုန်တော့ပါ — Stance တိုင်း၏ Rank I သည် အခမဲ့ဖြစ်သည်။ Rank II မှ V အထိနှင့် Stance Skill များ (Parry နှင့် Upgrade များ၊ Counterattack နှင့် Upgrade များ၊ Auto Evasion၊ Quick Draw) အားလုံး SP မကုန်တော့ပါ။",
+        "တိုက်ခိုက်ရင်း အဆင့်တက်သည် — Stance ဖွင့်ပြီး ကိုယ့် Level နှင့်တန်သော တိရစ္ဆာန်များ သို့မဟုတ် ကစားသမားများကို တိုက်ခိုက်ခြင်း၊ Parry လုပ်ခြင်းနှင့် Counter ပြန်တိုက်ခြင်းဖြင့် Mastery တက်လာမည်။ Rank V ရောက်ရန် အမဲလိုက်ချိန် ၁၀ နာရီမှ ၁၅ နာရီခန့် ကြာတတ်သည်။",
+        "Stance နှင့်အတူ အခမဲ့ပါလာသည် — Defense Stance တွင် Parry နှင့် Counter Stance တွင် Counterattack တို့ အလိုအလျောက် ပါဝင်ပြီးသားဖြစ်သည်။",
+        "အရင်သုံးထားသည့် SP များ ပြန်ရသည် — Stance Skill များအတွက် အရင်သုံးထားခဲ့သော SP များသည် Login ဝင်ချိန်တွင် အလိုအလျောက် ပြန်ရောက်လာမည်ဖြစ်ပြီး သင်ထားပြီးသား Rank နှင့် Skill များအားလုံး မပျောက်ဘဲ ကျန်ရှိနေပါမည်။"
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Chat တွင် ရိုက်ရမည့် Command",
+        "ပြသပေးမည့် အချက်အလက်"
+      ],
+      "rows": [
+        [
+          "!stance",
+          "လက်ရှိကိုင်ထားသော လက်နက်၏ Stance Mastery"
+        ],
+        [
+          "!stance mastery",
+          "ကိန်းဂဏန်းအသေးစိတ်နှင့် နောက်တစ်ဆင့် လိုအပ်ချက်"
+        ],
+        [
+          "!stance help",
+          "ဂိမ်းအတွင်း Stance လမ်းညွှန်"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Rank အသစ်တက်တိုင်း Chat ထဲတွင် ကြေညာပေးပါမည်။ !sikap ဟု ရိုက်လျှင်လည်း အတူတူပင် အလုပ်လုပ်ပါသည်။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Skill ပြန်ပြောင်းချင်လျှင် (Skill Reset စနစ်များ)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Full Reset Card — v10.3 Update တွင် Character တိုင်းအတွက် စာ (Letter) ဖြင့် တစ်ကတ်စီ ပေးထားသည်။ အိတ် (Bag) ထဲမှ အသုံးပြုလိုက်လျှင် Branch အားလုံးရှိ Skill များမှ SP အကုန်ပြန်ရမည်ဖြစ်ပြီး Branch Level များနှင့် Mastery Rank များ မပျောက်ဘဲ ကျန်နေပါမည်။",
+        "Stance Reset Card — အခမဲ့ Stance Reset မသုံးရသေးသော Character များအတွက်ဖြစ်ပြီး Melee၊ Archery နှင့် Defense Skill များမှ SP များ ပြန်ရရှိပါမည်။",
+        "Group Reset Cards — Shop ထဲတွင် T-Stone ဖြင့် ဝယ်နိုင်သော Combat၊ Crafting နှင့် Gathering & Survival ကတ်များဖြစ်သည်။ တစ်ကတ်လျှင် သက်ဆိုင်ရာအုပ်စု၏ SP ကို ပြန်ပေးပြီး Branch Level များ မပျောက်ပါ။ ကတ်တန်ဖိုးမှာ 500 T-Stone ဖြစ်ပြီး အသုံးပြုချိန်တွင် ပြန်ရမည့် SP 1 မှတ်လျှင် 30 T-Stone နှုန်း ကျသင့်မည် (အတည်မပြုမီ ကုန်ကျစရိတ်ကို အရင်ပြပေးပါမည်)။",
+        "Skill Reset Ticket — Shop ထဲတွင် 300 Warp Gems ဖြင့် ဆက်လက်ဝယ်ယူနိုင်ပါသည်။"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "မှတ်ချက် — ပြန်ရမည့် SP တစ်မှတ်မှ မရှိပါက Reset Card သို့မဟုတ် Ticket ကို ဖြတ်တောက်ခြင်း၊ T-Stone ကောက်ခံခြင်း လုံးဝမလုပ်ပါ။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "SP မှာ အနုတ် (-) ဂဏန်းပြနေလျှင်"
+    },
+    {
+      "type": "paragraph",
+      "text": "Smooth Update တင်လိုက်ချိန်တွင် ဂိမ်းက Skill Table အဟောင်းကို ဆက်ကိုင်ထားမိ၍ ဖြစ်တတ်သည်။ Title Screen သို့ တစ်ကြိမ်ပြန်ထွက်ပြီး ပြန်ဝင်လိုက်ပါက Skill Table အသစ်ကို ပြန် Load ပေးပြီး ပုံမှန်ပြန်ဖြစ်သွားပါမည်။"
+    }
+  ]
+}
