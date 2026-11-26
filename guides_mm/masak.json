@@ -1,1 +1,171 @@
 
+{
+  "title": "ဟင်းချက်ခြင်းနှင့် အစားအစာ Buff များ (Cooking & Food Buffs)",
+  "subtitle": "မီးဖိုနှင့် ပစ္စည်းကိရိယာများ၊ ချက်ပြုတ်နည်းများ၊ Buff အာနိသင်များ၊ Job အလိုက် ဟင်းပွဲများ၊ သက်တမ်းနှင့် Cooking Skill။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ဘယ်နေရာမှာ ချက်ပြုတ်ကြသလဲ (Where You Cook)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "လုံလောက်သော မီးအဆင့် — Recipe က မီး၏ Level ကို တောင်းဆိုပါသည်။ Small Bonfire သည် Level 19 တွင် ရပ်သွားပြီး Big Bonfire၊ Cooking Fire၊ Camping Grill နှင့် Kitchen များက Level 60 အထိ ရရှိသည်။",
+        "Camp Kitchen — Camp တွင် ပြထားသော Level အတိုင်း အလုပ်လုပ်ပါသည်။",
+        "မီးပေါ်တွင်သာ မဟုတ်ပါ — မုန့်သား (Dough) ကို Worktable တွင်၊ ဆေးဝါး (Medicine) ကို Medicine Table တွင်၊ Coffee နှင့် အမှုန့်များ (Powders) ကို Mortar (ဆုံ/ကြိတ်ခွက်) တွင် ပြုလုပ်ရသည်။",
+        "Recipe တွင် ဖော်ပြထားသော Tool — Pot၊ Pan၊ Grill၊ Cutting Board၊ Mortar၊ Water Container၊ Skewers စသည်တို့ကို Bag ထဲတွင် သို့မဟုတ် လက်ထဲတွင် ကိုင်ဆောင်ထားရပါမည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ဟင်းပွဲတစ်ခု ဘယ်လိုလုပ်သလဲ (How a Dish Is Made)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "သတ်မှတ်ထားသော Slot များ — Main Ingredient အပြင် ဟင်းပွဲအလိုက် လိုအပ်သည်များ (Soup အတွက် Water၊ Noodles အတွက် Broth၊ Sauce၊ Topping) ကို ထည့်ရသည်။",
+        "ဟင်းပွဲ၏ Level — ထည့်လိုက်သော ကုန်ကြမ်းများ၏ ပျမ်းမျှ Level အတိုင်းဖြစ်ပြီး ကိုယ့် Cooking Level ထက် ဘယ်တော့မှ မကျော်လွန်ပါ။ ထို Level ပေါ်မူတည်၍ Energy နှင့် Buff ပမာဏ တိုးလာသည်။",
+        "Mistake နှင့် Great Success — မှားယွင်း (Mistake) ပါက ချက်နည်း၏ ဂုဏ်သတ္တိကို 1 Level လျော့ကျစေသည် (ဥပမာ Grill တွင် Mistake ဖြစ်ပါက ဟင်းတူးသွားသည်)။ Great Success ထွက်ပါက 1 Level တက်ပြီး သက်တမ်း (Shelf Life) အနည်းငယ် ပိုရှည်လာသည်။"
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "ချက်ပြုတ်နည်း (Method)",
+        "အကျိုးသက်ရောက်မှု"
+      ],
+      "rows": [
+        [
+          "Skewer / Grill",
+          "Heated — တစ်ခါစားလျှင် Energy ပိုရ၊ Buff ပိုကြာ၊ ပိုခံသည် (Skewer ကို နှစ်ကြိမ် Grill လုပ်နိုင်သည်)"
+        ],
+        [
+          "Boil / Steam",
+          "Heated — Buff ပိုကြာ၊ ကုန်ကြမ်းများမှ အဆိပ် (Poison) ကို ဖယ်ရှားပေးသည် (Boil လုပ်လျှင် အခြောက်ခံထားသည်ကိုလည်း ပြန်စိုစေသည်)"
+        ],
+        [
+          "Stir-fry / Fry",
+          "Heated နှင့် Oily — Calorie ပိုများ၊ Buff ပိုကြာသည်"
+        ],
+        [
+          "Dry / Smoke / Salt / Can",
+          "နာရီပိုင်းအစား ရက်ပိုင်းအထိ ခံသည် — သို့သော် Stat Buff မရပါ"
+        ],
+        [
+          "Ice",
+          "Cold Food — အပူချိန်များချိန်တွင် အအေးဓာတ်ပေးပြီး အနွေးဓာတ် ပေးမှု နည်းသည်"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "စားသုံးခြင်း (Eating)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "အချိန်ကြာမြင့်မှု — 3–5 စက္ကန့် ကြာပြီး ရရှိမည့်ပမာဏများသည် ထိုအချိန်အတွင်း တဖြည်းဖြည်း ပြန်ဖြည့်ပေးသည်။ လမ်းလျှောက် (Step) လိုက်ပါက ကျန်ရှိနေသော စားသုံးမှု ရပ်တန့်သွားပြီး အစားအစာမှာ စားပြီးသား ဖြစ်သွားပါမည်။",
+        "ဗိုက်ပြည့်ချိန် (Satiety) — ဟင်းပွဲ၏ Satiety စက္ကန့်အတိုင်း ဗိုက်ပြည့်နေမည် (ဥပမာ Grape 10 စက္ကန့်၊ Sashimi 15 စက္ကန့်၊ Pizza 30 စက္ကန့်)။",
+        "တိုက်ပွဲအတွင်း စား၍မရပါ — တိုက်ပွဲ (Battle) ဖြစ်နေချိန်တွင် Food သို့မဟုတ် Medicine စား၍မရသလို Brawl Island Match အတွင်းတွင်လည်း လုံးဝစား၍မရပါ။",
+        "လမ်းလျှောက်ပြီးချက်ချင်း စားလျှင် တားမြစ်ခြင်း — ခြေလှမ်းလှမ်းပြီးပြီးချင်း ဟင်းစားရန် လုပ်ပါက ဂိမ်းက 'Berhenti dulu untuk makan' ဟု ပြပြီး တားမြစ်ကာ အစားအစာကို မကုန်စေဘဲ ထိန်းသိမ်းထားပေးသည် (v10.10.2)။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Buff အာနိသင်များ (The Buff)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "ရရှိနိုင်သော Stat များ — ဟင်းပွဲ၏ Level အလိုက် STR၊ AGI၊ END၊ CHA၊ INT၊ DEX၊ WIL၊ PER၊ Max Energy၊ Max Fatigue၊ Attack နှင့် အခြား Stat များ ရရှိနိုင်သည်။",
+        "ကြာမြင့်ချိန် — အဓိကဟင်းပွဲ အများစုမှာ 20 မိနစ် ကြာပြီး ရိုးရှင်းသော အစားအစာများမှာ 5–10 မိနစ် ကြာသည်။",
+        "တစ်ကြိမ်လျှင် တစ်မျိုးသာ — ဒုတိယဟင်းပွဲတစ်ခု ထပ်စားလျှင် ရှိပြီးသား Buff ကို အစားထိုးမည်လားဟု မေးပြီးမှ အစားထိုးပေးမည် (အခြေခံအစားအစာ အချို့တွင်မူ ကိုယ်ပိုင် Slot သီးသန့် ရှိသည်)။",
+        "အစိမ်း (Raw Food) သည် ဟင်းမဟုတ်ပါ — Buff မရသည့်အပြင် Raw Meat (အသားစိမ်း) စားမိပါက Deject ဖြစ်သွားပြီး 20 စက္ကန့်အတွင်း Energy ကုန်ကျမှု 40% ပိုများသွားမည်။",
+        "အမွှေးအကြိုင်ထည့်ခြင်း (Seasoning) — Spice ထည့်သုံးပါက Stat Row များကို တစ်ဆင့်လျှင် 5% တိုးစေသည် (Success ဖြစ်လျှင် +10%၊ Great Success ဖြစ်လျှင် +20%)၊ သို့သော် Buff ကြာချိန်မှာ ထက်ဝက် (Half) လျော့သွားမည်။",
+        "Preview ကို ကြည့်ပါ — ဟင်းပွဲတစ်ခုချင်းစီက ဘာ Stat ပေးပြီး ဘယ်လောက်ကြာမလဲဆိုတာကို Preview တွင် ဖော်ပြပေးထားသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Job အလိုက် စားသင့်သော ဟင်းပွဲများ"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Job / အလုပ်အကိုင်",
+        "ဟင်းပွဲ (Dish)",
+        "အဓိက Stat ၂ ခု"
+      ],
+      "rows": [
+        [
+          "Construction, Furnishing",
+          "Noodle soup in bone broth",
+          "INT + END"
+        ],
+        [
+          "Farming",
+          "Fruit pizza",
+          "WIL + CHA"
+        ],
+        [
+          "Cooking",
+          "Stir-fried noodles, fruit sauce",
+          "INT + CHA"
+        ],
+        [
+          "Mining, Gathering",
+          "Stir-fried noodles, vegetable sauce",
+          "INT + DEX"
+        ],
+        [
+          "Tailoring, Armourcraft",
+          "Fruit wine",
+          "DEX + CHA"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "အစားအစာ သက်တမ်း (How Long Food Keeps)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "အစားအစာ အမျိုးအစား",
+        "သက်တမ်း (ရက်)"
+      ],
+      "rows": [
+        ["Raw meat, fish, egg", "5 ရက်"],
+        ["Fruit, vegetables, grain, herbs, mushrooms, leaves, flowers", "7 ရက်"],
+        ["Drinks", "10 ရက်"],
+        ["A cooked dish", "26 ရက်"],
+        ["Bread", "34 ရက်"],
+        ["Cheese", "50 ရက်"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "ကုန်ကြမ်းများ၏ ပျမ်းမျှသက်တမ်း — ချက်လိုက်သော ဟင်းပွဲ၏ သက်တမ်းသည် ထည့်သုံးလိုက်သော ကုန်ကြမ်းများ၏ ပျမ်းမျှဖြစ်သောကြောင့် သက်တမ်းကုန်ခါနီး ပစ္စည်းများမဟုတ်ဘဲ လတ်ဆတ်သော ကုန်ကြမ်းများဖြင့် ချက်ပါ။",
+        "တာရှည်ခံအောင် ပြုလုပ်ခြင်း (Preserving) — Smoke၊ Salt နှင့် Can တို့က သက်တမ်းအများဆုံး ထပ်တိုးပေးပြီး Dry (အခြောက်ခံခြင်း) က ကုန်ကျစရိတ် အသက်သာဆုံးဖြစ်သည်။",
+        "အအေးသေတ္တာ (Cold Box) — Icebox က သက်တမ်းကုန်နှုန်းကို (9% + 1% per level) နှေးစေပြီး Ice Pot က 15–30% နှေးစေသည်။",
+        "သက်တမ်းကုန်သွားလျှင် — 0 ရောက်သွားသည်နှင့် Bag ထဲမှ အလိုအလျောက် လွှင့်ပစ်လိုက်မည် ('spoiled by time and thrown away')။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cooking Skill"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cooking Skill Tree တွင် ပါဝင်သော Branch များမှာ Boil 15 (Soup 20၊ Steam 25၊ Stew 35၊ Broth 45၊ Noodle Soup 60)၊ Smoke 10၊ Dry 20၊ Salt 30၊ Can 50၊ Bake 30၊ Sauce 30၊ Dough 30၊ Milk 50၊ Medicine 20 / 40 / 55 နှင့် Pet Feed 20 တို့ ဖြစ်သည်။ Cooking ၏ Ability မှာ CHA + INT ဖြစ်သောကြောင့် Charisma သို့မဟုတ် Intelligence Title များ၊ အစားအစာ Buff များနှင့် Emerald Glasses တို့က Cooking စွမ်းရည်ကို မြှင့်တင်ပေးနိုင်သည်။"
+    }
+  ]
+}
