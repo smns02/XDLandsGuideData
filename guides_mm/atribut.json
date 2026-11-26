@@ -1,1 +1,146 @@
 
+{
+  "title": "Attributes နှင့် Buffs — အဝါရောင်နှင့် အစိမ်းရောင်စာကြောင်းများ",
+  "subtitle": "Material Attributes (အဝါ)၊ Rare Green Attributes (အစိမ်း)၊ Reform (Tech Support)၊ အစားအစာ Buff နှင့် Pet Trait တို့၏ ကွာခြားချက်နှင့် တွက်ချက်ပုံအသေးစိတ်။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ဆင်တူယိုးမှား ဖြစ်တတ်သော စနစ် ၅ မျိုး (Five Things That Look Alike)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "အမျိုးအစား",
+        "ဘယ်နေရာမှာ ပါဝင်သလဲ",
+        "ကြာမြင့်ချိန်"
+      ],
+      "rows": [
+        [
+          "Material Attribute (အဝါရောင်)",
+          "Main Slot တွင် ထည့်သုံးသည့် ကုန်ကြမ်းမှတစ်ဆင့် ပစ္စည်းပေါ်သို့ ပါဝင်သည်",
+          "အမြဲတမ်း (Permanent)"
+        ],
+        [
+          "Rare Attribute (အစိမ်းရောင်)",
+          "ရှားပါးကုန်ကြမ်း (Rare Material) မှတစ်ဆင့် ပစ္စည်းပေါ်သို့ ပါဝင်သည်",
+          "အမြဲတမ်း (Craft ချိန်တွင် တစ်ကြိမ်သာ ကျပန်းဆွဲပေးသည်)"
+        ],
+        [
+          "Reform Slot (Tech Support)",
+          "Gear ပေါ်ရှိ Reform Slot ထဲတွင် ပါဝင်သည်",
+          "ထို Slot ကို Reform ထပ်မလုပ်မချင်း"
+        ],
+        [
+          "Food သို့မဟုတ် Medicine Buff",
+          "သင်၏ Character Buff Slot ပေါ်တွင် တက်သည်",
+          "မိနစ်ပိုင်း (Minutes)"
+        ],
+        [
+          "Pet Trait",
+          "Pet ၏ Discovery Wheel ပေါ်တွင် ရှိသည်",
+          "Pet တွင် ထို Trait ရှိနေသရွေ့"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Material Attribute တစ်ခုချင်းစီ၏ အကျိုးသက်ရောက်မှု"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Attribute",
+        "Weapon (လက်နက်)",
+        "Clothes (အဝတ်အစား)",
+        "Tool (ပစ္စည်းကိရိယာ)"
+      ],
+      "rows": [
+        ["Firm", "Attack +3.3 / Lv", "-", "-"],
+        ["Lightweight", "Accuracy +4.5", "Evasion +1.5", "-"],
+        ["Compact Structure", "Crit +6.5", "-", "-"],
+        ["High Density", "Durability +10", "Durability +10", "Durability +10"],
+        ["Pointy", "Defence Penetration +10", "-", "All Crafting Ability +1"],
+        ["Sharp Section", "Wound Damage +0.1", "-", "All Gathering Ability +1"],
+        ["Full", "Stun +0.01", "-", "All Building Ability +1"],
+        ["Tough Fibre", "-", "Defence +2.3", "-"],
+        ["Thin", "-", "Heat Resistance +1", "-"],
+        ["Fluffy", "-", "Cold Resistance +1", "-"],
+        ["Oily", "-", "Wind Resistance +1", "-"],
+        ["Good Breathability", "-", "Humidity Resistance +1", "-"],
+        ["Dense Surface", "-", "Volcanic Heat Resistance +1", "-"],
+        ["Low Luster", "-", "Stealth +1", "-"],
+        ["Soft Surface", "-", "All Crafting Ability +1", "-"],
+        ["High Elasticity", "-", "All Gathering Ability +1", "-"],
+        ["Beautiful Pattern", "-", "CHA +1", "-"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "မှတ်ချက် — ဇယားထဲတွင် '-' ပြထားခြင်းမှာ အားနည်းသည်ဟု မဆိုလိုဘဲ ထို Gear အမျိုးအစားပေါ်တွင် လုံးဝအလုပ်မလုပ်ခြင်း (အကျိုးသက်ရောက်မှု မရှိခြင်း) ဖြစ်သည်။ အဆောက်အဦ (Building) များပေါ်တွင်မူ High Density က ကြာရှည်ခံစေပြီး Low Density က သက်တမ်းတိုစေသည်။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "အဝါရောင်စာကြောင်းများ (Yellow Lines) ဘယ်ကလာသလဲ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Main Slot တစ်ခုတည်းကသာ လက်ဆင့်ကမ်းပေးသည် — Recipe ၏ ပထမဆုံး Slot (Main Slot) ထဲထည့်သော ကုန်ကြမ်းမှ Attribute များသာ ပစ္စည်းထဲပါသွားသည်။ Handle Slot (လက်ကိုင်နေရာ) ထဲသို့ Green Bone ထည့်သုံးလျှင် ဘာမှမထူးပါ။",
+        "ကုန်ကြမ်းများလျှင် ပျမ်းမျှတွက်သည် — Attribute တစ်ခုချင်းစီကို floor(စုစုပေါင်း / ကုန်ကြမ်းအရေအတွက်) ဖြင့် တွက်ပြီး ဆန့်ကျင်ဘက် Attribute များက အချင်းချင်း ချေဖျက်သွားသည် (ဥပမာ Firm 4 + Soft 2 = Firm 2)။",
+        "သတ္တုရိုင်း၊ အရိုးနှင့် သားရေတို့တွင် Random တစ်ခု ထပ်ထွက်နိုင်သည် — 10% အခွင့်အရေးရှိပြီး သတ္တုရိုင်းနှင့် အရိုးတွင် Level 4၊ သားရေတွင် Level 2 အဖြစ် ထွက်တတ်သည်။",
+        "Unstable Island များက Attribute အဆင့်မြှင့်ပေးသည် — Index 1–5 ကျွန်းများတွင် Index အလိုက် Attribute Level တက်ပေးပြီး Index 6–8 တွင်မူ Flawless Gather ဖြစ်မှသာ တက်ပေးသည်။",
+        "Great Success ဖြစ်လျှင် တစ်ခုအပိုရသည် — Weapon တွင် Attack၊ Tool တွင် Durability နှင့် Life Clothes တွင် သက်ဆိုင်ရာအလုပ်၏ Ability တစ်ခု အပိုထပ်တိုးပေးသည်။",
+        "Processing လုပ်ခြင်းဖြင့် ထပ်ပေါင်းနိုင်သည် — ဥပမာ Compressing တစ်ကြိမ်လုပ်လျှင် High Density +2 တိုးလာပြီး Item Card ပေါ်တွင် 'Lv a -> b' ဟု ပြပေးသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Green Buff များနှင့် Pity စနစ် ဘာကြောင့်မရှိတာလဲ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "အရိုးနှင့် သတ္တုရိုင်းများမှ ထွက်သည် — ပုံမှန်အားဖြင့် 1,000 ခုတွင် 1 ခုနှုန်းနှင့် တိရစ္ဆာန်ကြီး (Big Animal) များမှ 1,000 တွင် 2 ခုနှုန်း ထွက်ရှိသည် (သစ်လုံးနှင့် ရွှံ့စေးများတွင်မူ ၎င်းတို့၏ ကိုယ်ပိုင် Splits Easily ရှိသည်)။",
+        "စုစုပေါင်း ၄ မျိုး ရှိသည် — Black Sheen၊ Low Vibration၊ Wide Serration နှင့် Narrow Hook တို့ဖြစ်သည်။",
+        "တစ်ခုချင်းစီက ၂ မျိုးထဲမှ ၁ မျိုး ဖြစ်လာသည် — Black Sheen (Vital Strike သို့မဟုတ် Throw Dirt)၊ Low Vibration (Sadism သို့မဟုတ် Pain Averse)၊ Wide Serration (Extra Extra သို့မဟုတ် Gathering Mania)၊ Narrow Hook (Secrets of Gathering သို့မဟုတ် Meticulous Gatherer)။",
+        "လက်နက် (Weapon) တစ်ခုတွင် အများဆုံး ၂ ကြောင်းသာ ရသည် — Weapon ပေါ်တွင် Black Sheen နှင့် Low Vibration နှစ်မျိုးသာ အလုပ်လုပ်သောကြောင့် လက်နက်တစ်ခု၏ အမြင့်ဆုံး Cap မှာ Green Line ၂ ကြောင်းဖြစ်သည်။",
+        "အမြဲတမ်း ပါသွားသည် — Main Slot ထဲထည့်သုံးသော ကုန်ကြမ်းတစ်ခုခုတွင် Green Attribute ပါနေပါက ထွက်လာမည့်ပစ္စည်းထဲသို့ အမြင့်ဆုံး Level အတိုင်း တစ်ကြိမ် အသေအချာ ပါဝင်သွားပါမည်။",
+        "ကျပန်းရွေးချယ်မှု (Roll) တစ်ခုတည်းသာ — ၂ မျိုးထဲမှ ဘယ်တစ်ခုရမလဲဆိုတာ Craft လိုက်သည့်အချိန်တွင် ရိုးရိုး Random ကျပန်းရွေးချယ်ခြင်းဖြစ်သည်။ Counter မှတ်ထားခြင်း၊ ရာခိုင်နှုန်းတက်လာခြင်း သို့မဟုတ် အာမခံ (Pity/Floor) လုံးဝမရှိပါ။ Craft မလုပ်ခင် Preview တွင် အစိမ်းရောင် '?' ပြနေခြင်းမှာ ဘာထွက်မလဲ မဆုံးဖြတ်ရသေး၍ ဖြစ်သည်။",
+        "Reform က Green Line ကို မထိနိုင်ပါ — မည်သည့် Tech Support Recipe ကမှ Green Buff အသစ် မပေးနိုင်သလို ရှိပြီးသား Green Buff ကိုလည်း မဖျက်ပစ်ပါ။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reform — Tech Support ပြုပြင်ပြောင်းလဲခြင်းစနစ်"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Slot အရေအတွက် — Lv 1 တွင် ၁ ခု၊ Lv 20 တွင် ဒုတိယ Slot နှင့် Lv 40 တွင် တတိယ Slot ပွင့်လာပြီး အဝတ်အစား၊ ဦးထုပ်၊ ဖိနပ်၊ လက်အိတ်၊ အိတ် (Bag)၊ Weapon နှင့် Tool များတွင် သုံးနိုင်သည်။",
+        "ရရှိနိုင်သော Stat များ — Nailing (Attack 1–35)၊ Tempering (Attack + Penetration)၊ Pockets၊ Resistances၊ Job Ability များ ထွက်နိုင်ပြီး အချို့ Recipe များတွင် ဘေးထွက်ဆိုးကျိုး (ဥပမာ Max Energy လျော့ခြင်း) ပါတတ်သည်။",
+        "အဆင့်သတ်မှတ်ချက် (Label) — Tag တစ်ခုခု SuperRare ထွက်လျှင် 'Sempurna'၊ Rare ထွက်လျှင် 'Cermat' ဟု ပြပေးသည်။",
+        "ထပ်မံပြုလုပ်ခြင်း — တူညီသော Reform (သို့မဟုတ် ၎င်းအုပ်စုတူ) ကို ထပ်လုပ်ပါက ထို Slot ၏ ရလဒ်အဟောင်းကို အစားထိုးသွားမည်။ မတူညီသော Reform အမျိုးအစား ထည့်လိုပါက Slot အလွတ်တစ်ခု လိုအပ်သည်။",
+        "Paid Estimate (ကြိုတင်တွက်ချက်ကြည့်ခြင်း) — ပထမတစ်ကြိမ်ကြည့်လျှင် 2,000 T-Stone၊ နောက်ထပ်တစ်ကြိမ်တိုးတိုင်း +10% နှင့် (1 + Lock ချထားသော Tag အရေအတွက်) ဖြင့် မြှောက်ကျသင့်ပြီး Code Snippets 20 ခု လိုအပ်သည်။ ရလဒ်ကို မိနစ် ၃၀ ထိန်းသိမ်းပေးထားပြီး Accept နှိပ်လိုက်လျှင် 100% အောင်မြင်သည်။",
+        "Slot အလွတ်ပြန်လုပ်ခြင်း — 50 Warp Gems ကုန်ကျသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "အစားအစာ Buff နှင့် Pet Trait တို့၏ ကွာခြားချက်"
+    },
+    {
+      "type": "paragraph",
+      "text": "ဟင်းပွဲ (Dish) မှရသော Buff သည် သင့် Character ပေါ်တွင် မိနစ်ပိုင်းသာ တစ်ကြိမ်လျှင် တစ်မျိုးစီ တက်နေခြင်းဖြစ်ပြီး Gear ပစ္စည်းများကို လုံးဝမထိပါ — ဥပမာ Heated (တစ်ကြိမ်တည်း Energy ပိုရ)၊ Energetic (အလုပ်လုပ်ရာတွင် Energy အကုန်သက်သာ)၊ ရေငတ်ပြေခြင်း၊ Life/Stamina အပြန်မြန်ခြင်းနှင့် လက်ဖက်ရည်များ၏ Fatigue လျှော့ချပေးခြင်းတို့ ဖြစ်သည်။"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pet Trait များသည် Pet ၏ Discovery Wheel ပေါ်တွင် ရှိပြီး ပုံမှန် Trait ၁၃ မျိုးနှင့် 'No Ability' အကွက် (အစာမကျွေးမီ 40%၊ Shop အစာ တစ်ကြိမ်ကျွေးပြီးနောက် 10%) တို့ ပါဝင်သည်။ တူညီသော Trait ထပ်ကျပါက Level တိုးသွားသည် (အများဆုံး Lv 10 အထိ)။ သို့သော် Pet ကို Grade အသစ်တင် (Accept New Grade) လိုက်ပါက လက်ရှိ Trait များနှင့် Special Action များ အားလုံးပျက်သွားမည်ကို သတိပြုပါ။"
+    }
+  ]
+}
