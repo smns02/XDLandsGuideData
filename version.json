@@ -10,6 +10,7 @@
     "xd_rules.json",
     "abilities.json",
     "resistances.json",
+    "update_notes.json",
     "tech_research.json"
   ]
 }
