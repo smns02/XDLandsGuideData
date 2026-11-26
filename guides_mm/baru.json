@@ -1,1 +1,79 @@
 
+{
+  "title": "XD Lands တွင် ပါဝင်သော အင်္ဂါရပ်အသစ်များနှင့် အချက်အလက်များ (What's New)",
+  "subtitle": "အတူတကွ ဆော့ကစားနိုင်မှု၊ Launcher နှင့် အကောင့်စနစ်၊ Clan/Outpost/Unstable ကျွန်းများ၊ ကျွန်းအသစ်များနှင့် Website အင်္ဂါရပ်များ။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "အတူတကွ ဆော့ကစားခြင်း (Play Together)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Proximity Voice Chat — အနီးအနားရှိ ကစားသမားများနှင့် စကားပြောနိုင်ပြီး Whisper၊ Normal သို့မဟုတ် Shout ဖြင့် အသံကြားနိုင်မည့် အကွာအဝေးကို ရွေးချယ်နိုင်သည်။",
+        "Global Chat — မည်သည့်ကျွန်းပေါ်တွင် ရောက်နေပါစေ Online ရှိနေသော ကစားသမားတိုင်း ဖတ်ရှုနိုင်သည့် Global Tab ပါရှိသည်။",
+        "Friends Across Islands — မည်သည့်ကျွန်းတွင် ရောက်နေသည်ဖြစ်စေ သူငယ်ချင်းများနှင့် တစ်ဦးချင်း (သို့မဟုတ်) Group ဖြင့် စာပို့နိုင်ပြီး Offline ဖြစ်နေသူများအတွက် မက်ဆေ့ချ်များ သိမ်းဆည်းထားပေးမည်။",
+        "Parties Across Islands — Party ဖွဲ့ထားသူများ အခြားကျွန်းသို့ ရောက်နေလျှင်ပင် Party မပြိုကွဲဘဲ Party Chat ဖြင့် အားလုံးဆက်သွယ်နိုင်သည်။",
+        "Phone နှင့် PC အတူတကွ — ဖုန်းနှင့် PC ကစားသမားများ ကမ္ဘာတစ်ခုတည်းတွင် အတူတကွ ဆော့နိုင်ပြီး အသံလည်း အပြန်အလှန် ကြားနိုင်ကြသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ဂိမ်းဝင်ရောက်ခြင်းနှင့် အကောင့်စနစ် (Getting In)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "XD Lands Launcher — ဖုန်းနှင့် PC တို့တွင် App တစ်ခုတည်းမှ Sign In၊ Install နှင့် Update ပြုလုပ်နိုင်ပြီး Update များကို တစ်ချက်နှိပ်ရုံဖြင့် တင်နိုင်သည်။",
+        "Discord သို့မဟုတ် Google — Discord သို့မဟုတ် Google အကောင့်ဖြင့် Sign In ဝင်နိုင်ပြီး Launcher ထဲတွင် နှစ်ခုလုံးကို Link ချိတ်ထားနိုင်သည်။",
+        "English နှင့် Indonesian — Mission များ၊ Event များ၊ Clan Rank များနှင့် Server စာတိုများသည် ကိုယ်ရွေးချယ်ဆော့ကစားနေသော ဘာသာစကားအတိုင်း ပေါ်လာမည်။",
+        "Online နှင့် Ping — Top Line တွင် လက်ရှိ Online ရှိနေသော ကစားသမားဦးရေနှင့် Ping ကို ပြသပေးသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Clan များနှင့် ရှေ့တန်းနယ်မြေ (Clans & The Frontier)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Savage Islands — Level 56 မှစတင်၍ မြို့ဆိပ်ကမ်းများမှတစ်ဆင့် သွားရောက်နိုင်သော ဥပဒေမဲ့ Lv 60 ကျွန်း ၂ ခုဖြစ်သည်။ PvP ဖွင့်ထားပြီး ထိုနေရာမှ ရရှိသမျှသည် Unstable ဖြစ်သည်။",
+        "Outposts — Clan များသည် Savage Island များပေါ်ရှိ Outpost များကို သိမ်းပိုက်နိုင်ပြီး Fee များ သတ်မှတ်ခြင်းနှင့် Domain Window မှတစ်ဆင့် Warp သွားခြင်းတို့ ပြုလုပ်နိုင်သည်။",
+        "Courier Dimension Hole — Unstable ပစ္စည်းများကို ၎င်းမှတစ်ဆင့် အိမ်သို့ပို့လိုက်ပါက ကိုယ့် Land သို့မဟုတ် Clan Land ထံ Stable အဖြစ် ရောက်ရှိလာမည်ဖြစ်သည်။",
+        "Clan Chat Everywhere — Clan Chat သည် အခြားကျွန်းများပေါ်ရှိ Member များထံသို့ပါ ရောက်ရှိနိုင်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ကမ္ဘာနှင့် ကျွန်းအသစ်များ (The World)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "ကျွန်းအသစ်များ — Shiver (Tundra Lv 40)၊ Sands (Desert Lv 50)၊ Brackish (Swamp Lv 55) နှင့် Thicket (Tropical Lv 55) တို့ ပါဝင်သည်။",
+        "Unstable Islands ပြန်လည်ပါဝင်မှု — Instability Index 1 မှ 8 အထိ ရှိပြီး ပြောင်းလဲပေါ်ထွက်လာတတ်သည့် ကျွန်း ၈ ခု ပါဝင်သည်။",
+        "City Islands — Level 30+ ကစားသမားများအတွက် မြို့တော်ကျွန်းများဖြစ်ပြီး ပိုဝေးသော ပင်လယ်များသို့ သွားရန် ဆိပ်ကမ်း (Harbor) များ ရှိသည်။",
+        "Fever Time — EXP နှင့် Skill Proficiency ၂ ဆ (2x) အပြင် Pet EXP ပါ ၂ ဆ ရရှိစေမည့် Event အချိန်များ။",
+        "Punching Machine — Unstable ကျွန်းများရှိ Camp များတွင် ရှိပြီး တစ်ချက်ထိုးလျှင် 100 T-Stone ကျသင့်ကာ ကျွန်းအလိုက်နှင့် Server တစ်ခုလုံး၏ Leaderboard များ ပါဝင်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Website ပေါ်ရှိ အင်္ဂါရပ်များ (On This Website)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Encyclopedia — Item များ၊ Recipe များ၊ Blueprint များ၊ တိရစ္ဆာန်များ၊ ကျွန်းများ၊ Skill များနှင့် Flora အပင်များ။",
+        "Market Prices — လက်ရှိရောင်းချနေသော ဈေးနှုန်းများနှင့် ဤအပတ်အတွင်း ရောင်းချပြီးစီးခဲ့သော ဈေးနှုန်းများ။",
+        "Rankings — ကစားသမားများ၊ Clan များနှင့် Punching Machine အဆင့်သတ်မှတ်ချက်များ။",
+        "Your Profile — Sign In ဝင်ပြီးနောက် ကိုယ့် Character အားလုံးကို တစ်နေရာတည်းတွင် ကြည့်ရှုနိုင်ခြင်း။"
+      ]
+    }
+  ]
+}
