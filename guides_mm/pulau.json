@@ -1,1 +1,131 @@
 
+{
+  "title": "ကျွန်းများနှင့် Unstable Index စနစ် (Islands & Unstable Indexes)",
+  "subtitle": "ကျွန်းအမျိုးအစားများ၊ ကျွန်းစာရင်းနှင့် Level များ၊ Instability Index 1–8 လိုအပ်ချက်များ၊ Unstable ပစ္စည်းများနှင့် Unstable ကျွန်းပေါ်မှ အရာများ။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ကျွန်းအမျိုးအစားများ (The Kinds of Island)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Start — Pioneer တိုင်း စတင်နိုးထလာရာ Ancora ကျွန်းနှင့် နောက်ထပ်ရွက်လွှင့်ရောက်ရှိမည့် Safe House No. 9 ဆိပ်ကမ်းတို့ဖြစ်သည်။",
+        "ကိုယ်ပိုင်ကျွန်း (Your Own Island) — အိမ်ဆောက်ရန် Tamed Island တစ်ခု ရရှိမည်ဖြစ်ပြီး သူငယ်ချင်း၏ကျွန်းသို့ သွားရောက်လည်ပတ်လျှင် ၎င်းတို့၏ Domain တွင် ရောက်ရှိမည်ဖြစ်သည်။",
+        "Wild Islands — Forest၊ Snow၊ Desert၊ Swamp နှင့် အခြားကျွန်းများဖြစ်ပြီး ကျွန်းအလိုက် Level ကွဲပြားကာ Level မြင့်လေ တိရစ္ဆာန်များ ပိုကြမ်းလေ ဖြစ်သည်။",
+        "Kota Raya — Level 30 မှစတင်ဝင်ရောက်နိုင်သော မြို့တော်ကျွန်းကြီးဖြစ်ပြီး အိမ်များ၊ Crafting၊ Market နှင့် Clan မြေနေရာများ ရှိသည်။",
+        "Savage Islands — Level 56 မှစတင်၍ မြို့ဆိပ်ကမ်းများမှတစ်ဆင့် သွားရောက်နိုင်သော ဥပဒေမဲ့ Lv 60 ကျွန်း ၂ ခုဖြစ်သည်။ Neutral Warp Hole အနီးမှလွဲ၍ PvP ဖွင့်ထားပြီး Clan များက Outpost များအတွက် တိုက်ခိုက်ကြကာ ထိုကျွန်းမှရရှိသမျှသည် Unstable ဖြစ်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ကျွန်းများနှင့် Level စာရင်း (Every Island)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ကျွန်းတစ်ခုချင်းစီ၏ Level သတ်မှတ်ချက်ကို အောက်ပါဇယားတွင် ကြည့်ရှုနိုင်ပြီး သက်ဆိုင်ရာ Level ပြည့်မီသည်နှင့် ရွက်လွှင့်သွားရောက်နိုင်ပါသည် (Server ပေါ်ရှိ လက်ရှိ Pioneer ဦးရေကိုလည်း App ၏ Status/Guides တွင် Live ကြည့်ရှုနိုင်သည်)။"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "ကျွန်းအမည် (Island)",
+        "Level Range"
+      ],
+      "rows": [
+        ["Ancora", "1–5"],
+        ["Pulau Pemulihan", "1–6"],
+        ["Personal Island", "1–15"],
+        ["Safe House No. 9", "1–5"],
+        ["Meadow", "12–18"],
+        ["Tropical", "16–21"],
+        ["Jungle", "18–23"],
+        ["Wilds", "23–28"],
+        ["Frost", "28–33"],
+        ["Desert", "33–38"],
+        ["Forest", "33–38"],
+        ["Shiver", "38–43"],
+        ["Fog", "38–43"],
+        ["Kota Raya", "38–42"],
+        ["Kota Teduh", "38–42"],
+        ["Swamp", "43–48"],
+        ["Savanna", "43–48"],
+        ["Sands", "48–53"],
+        ["Snow", "48–53"],
+        ["Cold", "53–58"],
+        ["Thicket", "53–58"],
+        ["Brackish", "53–58"],
+        ["Glacier", "58–63"],
+        ["Polar", "58–63"],
+        ["Mud", "58–63"],
+        ["Great Jungle", "58–63"],
+        ["Savage Temperate", "58–63"],
+        ["Savage Tropics", "58–63"],
+        ["Barren", "58–63"],
+        ["Volcano", "58–63"],
+        ["Pulau Racun Minyak I", "60"],
+        ["Pulau Racun Minyak II", "60"],
+        ["Pulau Racun Minyak III", "60"]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Unstable Indexes (Index 1 မှ 8 အထိ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Level 60 ပင်လယ်များကို Instability Index 1 မှ 8 အထိ ရွက်လွှင့်ဝင်ရောက်နိုင်သည်။ Index မြင့်လေ ပတ်ဝန်းကျင်ပိုကြမ်းလေဖြစ်ပြီး တိရစ္ဆာန်များ၏ အရိုးနှင့် သားရေ Attribute များ တိုးလာကာ ကုန်ကြမ်းရှာရာတွင် Gathering Power ပိုလိုအပ်သည်။ မည်သည့် Index ကို ဝင်ခွင့်ရမလဲဆိုသည်ကို သင်၏ Pioneer Grade နှင့် ထိုပင်လယ်ရာသီဥတုအတွက် ခန္ဓာကိုယ်ခံနိုင်ရည် (Body Resistance) တို့က ဆုံးဖြတ်သည်။"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Index",
+        "လိုအပ်သော Pioneer Grade",
+        "လိုအပ်သော Body Resistance",
+        "အကြံပြုအဆင့် (Recommended)"
+      ],
+      "rows": [
+        ["1", "1", "0", "1"],
+        ["2", "2", "0", "4"],
+        ["3", "4", "3", "8"],
+        ["4", "5", "7", "14"],
+        ["5", "7", "12", "19"],
+        ["6", "9", "17", "27"],
+        ["7", "11", "25", "39"],
+        ["8", "13", "35", "53"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Index တစ်ခုခု ဝင်ခွင့်မရသေးပါက ရွက်လွှင့်သည့် Screen တွင် Pioneer Grade သို့မဟုတ် Resistance Level ဘယ်ဟာလိုအပ်နေသည်ကို ပြသပေးပါမည်။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Unstable ပစ္စည်းများနှင့် အိမ်ပြန်ပို့နည်း (Unstable Goods)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Savage Island များမှ ရရှိသမျှနှင့် Wild Island များမှ Unstable တွေ့ရှိချက်များသည် Unstable ဖြစ်သည်။",
+        "Unstable Item များကို Market တွင် တင်ရောင်းခြင်း၊ Mail ပို့ခြင်း သို့မဟုတ် Contract Board တွင် ပေးအပ်ခြင်း ပြုလုပ်၍မရသလို ကျွန်းမှ ထွက်ခွာသည့်အခါ ကိုယ့် Bag ထဲရော Pet Bag ထဲမှပါ ပျောက်ဆုံးသွားမည်ဖြစ်သည်။",
+        "အိမ်သို့ ပြန်ပို့နည်း — Courier Dimension Hole မှတစ်ဆင့် အရင်ပို့လိုက်ပါက Stable အဖြစ် ပြန်ရောက်ရှိလာမည်ဖြစ်သည်။ မိမိမြေပေါ်တွင် Exit Gate ကို ဆောက်လုပ် Activate လုပ်ထားပြီး Camp ရှိ Warp Hole (Camp မရှိသောကျွန်းများတွင် ဆိပ်ကမ်းအနီးရှိ Warp Hole) မှတစ်ဆင့် တစ်ခုလျှင် 30 T-Stone နှင့် 1 မိနစ်ကြာ ပို့ဆောင်နိုင်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Unstable ကျွန်းများပေါ်ရှိ အခြားအရာများ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Punching Machine — Camp များတွင် ရှိပြီး ထိ၍ Attack ကို ရွေးချယ်ကာ တစ်ချက်ထိုးလျှင် 100 T-Stone ကျသင့်သည်။ Standings တွင် ထိုကျွန်း၏ ထိပ်တန်း ၅ ဦးနှင့် Server တစ်ခုလုံး၏ အဆင့်များကို ပြသပေးသည်။",
+        "Warp Rifts — ကျွန်း၏ သက်တမ်းတစ်လျှောက်လုံး တည်ရှိနေပါသည်။",
+        "Buildings — Domain ပြင်ပတွင် ဆောက်ထားသော အဆောက်အဦများသည် မိနစ် ၃၀ သာ ခံပါသည်။"
+      ]
+    }
+  ]
+}
