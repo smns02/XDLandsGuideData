@@ -1,1 +1,117 @@
 
+{
+  "title": "တိရစ္ဆာန်များနှင့် Pet မွေးမြူခြင်း (Animals & Taming)",
+  "subtitle": "၃ ဆင့်ဖြင့် Pet ဖမ်းယူမွေးမြူနည်း၊ ဖမ်းနိုင်သော တိရစ္ဆာန်စာရင်း (Lv 1–58+)၊ Pet နှင့်အတူ သွားလာနေထိုင်ပုံနှင့် Pet Attributes/Grade စနစ်။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "၃ ဆင့်ဖြင့် ဖမ်းယူမွေးမြူခြင်း (Taming in Three Steps)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "၁။ ဖမ်းယူခြင်း (Capture) — တိရစ္ဆာန်ကို သွေးလျှော့အောင်တိုက်ပြီးနောက် Capture လုပ်ပါ။ အဓိကတိုက်ခိုက်သူ (Top Hunter) သည် တိရစ္ဆာန်ကို ဖမ်းယူရန် ပထမ 60 စက္ကန့် သီးသန့်အခွင့်အရေး ရရှိမည်ဖြစ်သည်။",
+        "၂။ လှောင်အိမ်ထဲထည့်ခြင်း (Cage) — ဖမ်းထားသော တိရစ္ဆာန်ကို Taming Pen ထဲထည့်ပါ။ Snowfield Tarbosaurus ကဲ့သို့သော တိရစ္ဆာန်ကြီးများအတွက် လွတ်နေပြီး အပြည့်အစုံ (Level 60) ရှိသော Pen တစ်ခုတည်း သီးသန့်လိုအပ်သည်။",
+        "၃။ ချည်နှောင်ထားခြင်း (Tie) — ယဉ်ပါးသွားသော တိရစ္ဆာန်ကို ကိုယ့်နေရာတွင် ချည်ထားပါ။ ပုံမှန်အားဖြင့် 8 ကောင်အထိ ချည်ထားနိုင်ပြီး Animal Management Skill တစ်ဆင့်တိုးတိုင်း 2 ကောင် ထပ်မံချည်နှောင်နိုင်သည်။"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "မျိုးစိတ်တိုင်းတွင် ကိုယ်ပိုင်စရိုက် (Temperament) ရှိသည် — Tame (ယဉ်ပါး)၊ Wary (သတိကြီး/လန့်တတ်) သို့မဟုတ် Fierce (ကြမ်းကြုတ်)။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ဖမ်းယူမွေးမြူနိုင်သော တိရစ္ဆာန်များ (Lv 1 မှ Lv 58+)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Level",
+        "တိရစ္ဆာန်မျိုးစိတ်များ (Species)"
+      ],
+      "rows": [
+        [
+          "Lv 1+",
+          "Albiraptor, Ankylosaurus, Euoplocephalus, Light Pink Protoceratops, Macrauchenia, Male Megaloceros, Oviraptor, Parasaurolophus, Pictaraptor, Protoceratops"
+        ],
+        [
+          "Lv 12+",
+          "Zebraceratops"
+        ],
+        [
+          "Lv 16+",
+          "Raptor"
+        ],
+        [
+          "Lv 28+",
+          "Centrosaurus, Coelophysis, Direwolf"
+        ],
+        [
+          "Lv 33+",
+          "Clownfish Compy, Gallimimus, Pavomimus, Utahraptor"
+        ],
+        [
+          "Lv 38+",
+          "Deinonychus, Dilophosaurus, Sabertooth, Styracosaurus"
+        ],
+        [
+          "Lv 43+",
+          "Skunkodus, Triceratops"
+        ],
+        [
+          "Lv 48+",
+          "Male White-bellied Megaloceros, Snowfield Coelophysis"
+        ],
+        [
+          "Lv 53+",
+          "Ornithomimus"
+        ],
+        [
+          "Lv 58+",
+          "Lava Hadrosaurus, Sulfuric Skunkodus, Tarbosaurus"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pet နှင့်အတူ နေထိုင်သွားလာခြင်း (Life With a Pet)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "အတူတိုက်ခိုက်ခြင်း — Pet များသည် သခင်နှင့်အတူ ယှဉ်တွဲတိုက်ခိုက်ပေးပြီး လဲကျသွားပါက CPR ဖြင့် ပြန်လည်ကယ်တင်နိုင်သည်။ သင့် Pet က သတ်လိုက်သော တိရစ္ဆာန်များသည်လည်း သင့် Hunting Mission များအတွက် ထည့်သွင်းရေတွက်ပေးပါသည်။",
+        "ခရီးအတူလိုက်ခြင်း — ခေါ်ထုတ်ထားသော Pet သည် သင်နှင့်အတူ အခြားကျွန်းများသို့ပါ လိုက်ပါလာမည်ဖြစ်သည်။",
+        "စီးနင်းခြင်း (Riding) — အချို့တိရစ္ဆာန်များကို စီးနင်းနိုင်သော်လည်း ဂိမ်းက စီးခွင့်မပြုသော Labrador ကဲ့သို့သော မျိုးစိတ်များကို စီး၍မရပါ။",
+        "အစာကျွေးခြင်း (Feeding) — Trait များမှ ပိုရရှိသော Energy ပမာဏအပါအဝင် Pet ၏ Energy အပြည့်ဖြစ်သည်အထိ ကျွေးနိုင်သည်။",
+        "EXP ရရှိမှု — အပြင်ထုတ်ထားချိန်တွင် Pet က EXP ရရှိပြီး Fever Time တွင် Pet EXP ၂ ဆ (2x) ရရှိသည်။",
+        "Pet ၏ Bag — ကိုယ့် Bag ကဲ့သို့ပင် ကျွန်းမှ ထွက်ခွာသည့်အခါ Pet ၏ Bag ထဲရှိ Unstable Item များ ပျောက်ဆုံးသွားပါမည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pet Attributes နှင့် Grade စနစ်"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Discovery Wheel — Pet သည် Discovery Wheel ပေါ်တွင် Attribute များ ရှာဖွေရရှိသည်။ Pet တိုင်းတွင် မူလ Ordinary Attribute ၁၃ မျိုးနှင့် 'No Ability' အကွက် (အစာမကျွေးမီ 40%၊ Shop အစာ တစ်ကြိမ်ကျွေးပြီးနောက် 10%) ပါဝင်သည်။",
+        "Feed များ၏ သက်ရောက်မှု — Shop Feed တစ်ခုသည် သာမန် Attribute တစ်ခုထက် ၂ ဆ (Weight x2) အလေးသာစေပြီး Green (Amplify) Attribute များကို Feed များမှ ရရှိသည်။",
+        "ထပ်တူကျလျှင် Level တက်သည် — တူညီသော Attribute ထပ်ကျပါက ပေါင်းထည့်သွားပြီး အများဆုံး Level 10 အထိ တက်နိုင်သည်။",
+        "Grade Reset — Grade တစ်မျိုးထက်ပိုရှိသော မျိုးစိတ်များအတွက်သာ Grade Reset အလုပ်လုပ်ပြီး Grade အသစ်ကို လက်ခံလိုက်ပါက Pet ၏ ရှိပြီးသား Attribute များနှင့် Special Action များ ပျက်သွားမည်ဖြစ်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Halloween Event — Witch Phenacodus"
+    },
+    {
+      "type": "paragraph",
+      "text": "နိုဝင်ဘာ ၇ ရက်နေ့အထိ Unstable Tundra ကျွန်းများပေါ်တွင် Witch Phenacodus များ သွားလာနေတတ်သည်။ အမဲလိုက်ခြင်း သို့မဟုတ် ဖမ်းယူမွေးမြူခြင်း (Tame) တို့ကို Event အသေးစိတ်အတိုင်း ပြုလုပ်နိုင်ပါသည်။"
+    }
+  ]
+}
