@@ -1,1 +1,68 @@
 
+{
+  "title": "Level အလိုက် သွားရမည့်လမ်းကြောင်း (Your Path, Level by Level)",
+  "subtitle": "Level 1 မှ 60 အထိ ပွင့်လာမည့် ကျွန်းများ၊ တိရစ္ဆာန်များနှင့် အဆင့်ဆင့် လုပ်ဆောင်ရမည့် လမ်းညွှန်။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Level 1–10 — Ancora ကျွန်းမှ ကိုယ်ပိုင်ကျွန်းသို့"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Ancora (Lv 1–5) — Ancora ကျွန်းပေါ်တွင် စတင်နိုးထလာမည်။ Task Panel အတိုင်း လိုက်လုပ်ပြီး လက်ဖြင့်ကုန်ကြမ်းကောက်ကာ Stone Blade နှင့် Improvised Stone Axe တို့ကို ပြုလုပ်ပါ။",
+        "ကျွန်းမှထွက်ခွာခြင်း (Escape) — Log နှင့် Stalk များသုံးပြီး Emergency Raft ဆောက်ပါ။ ထိုဖောင်ဖြင့် Safe House No. 9 သို့ ရောက်ရှိသွားပါမည်။",
+        "K ၏ Mission များ — Safe House တွင် K က Work Tools၊ Bonfire (မီးပုံ)၊ အနားယူခြင်း၊ သစ်ခုတ်ခြင်း၊ အမဲလိုက်ခြင်း၊ အသားဖျက်ခြင်း (Butchering)၊ ဟင်းချက်ခြင်းနှင့် Makeshift Tent ဆောက်ခိုင်းပါမည်။ ပြီးလျှင် မြောက်ဘက်ကမ်းခြေရှိ မီးပုံးပျံဖြင့် ကိုယ်ပိုင်ကျွန်းသို့ ပြန်နိုင်ပါသည်။",
+        "ကိုယ်ပိုင်ကျွန်း (Lv 1–15) — သင်၏ Personal Island ပေါ်တွင် မြေနေရာသိမ်းပိုက် (Claim Land) ပြီး အိမ်ဆောက်ပါ။ ဤကျွန်းပေါ်ရှိ တိရစ္ဆာန်များသည် သင်၏ ပထမဆုံး အမဲလိုက်စရာနှင့် ပထမဆုံး Pet များဖြစ်ပြီး Parasaurolophus၊ Protoceratops နှင့် Oviraptor တို့ကို ဖမ်းယူမွေးမြူ (Tame) နိုင်ပါသည်။"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ပထမဆုံး Recipe များသည် Skill Level 1 မှ 3 အတွင်း ပွင့်လာပါသည်။ ၎င်းတို့မှာ Stone Blade၊ Improvised Knife နှင့် Axe၊ Leaf Outfit၊ Rope နှင့် Makeshift Tent တို့ဖြစ်သည်။ Skill Point များ ရယူနည်းကို Skill points လမ်းညွှန်တွင် ကြည့်နိုင်သည်။"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Level 10–30 — ပထမဆုံး Wild Island များ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Meadow (Lv 12–18) — Novice Pioneer Story အဆင့်တွင် Level 11 မှစ၍ ဝင်နိုင်သော Meadow ကျွန်းသို့ သွားရပါမည်။ ထိုကျွန်းပေါ်ရှိ Zebraceratops ကို ဖမ်းယူမွေးမြူ (Tame) နိုင်ပါသည်။",
+        "နောက်ထပ်ပွင့်လာမည့် ကျွန်းများ — Tropical (Lv 16–21)၊ Jungle (Lv 18–23)၊ Wilds (Lv 23–28) နှင့် Frost (Lv 28–33) တို့ဖြစ်သည်။ ကျွန်းတစ်ခုချင်းစီ၏ စာမျက်နှာတွင် ဝင်နိုင်သည့် Level နှင့် နေထိုင်သော တိရစ္ဆာန်များကို ဖော်ပြထားသည်။",
+        "သတ္တုရိုင်းနှင့် ပိုကောင်းသော Tool များ — Skill Level 10 ရောက်လျှင် သတ္တုရိုင်းတူးရန် Stone Pickaxe၊ မီးသွေး (Charcoal) နှင့် Leather Strap တို့ ပွင့်လာပါမည်။",
+        "သားရေ (Leather) — တိရစ္ဆာန်များကို အသားဖျက် (Butcher) ပြီး Leather ယူကာ Drying Rack တွင် အခြောက်လှန်းခြင်းဖြင့် Dried Leather (Processing Level 15) ရရှိပါမည်။ ၎င်းကို အဝတ်အစားနှင့် ကြိုး (Strap) များလုပ်ရာတွင် သုံးသည်။",
+        "သင်၏ ပထမဆုံး Pet — တိရစ္ဆာန်တစ်ကောင်ကို သွေးလျှော့အောင်တိုက်ပြီး ဖမ်းယူ (Capture) ကာ Makeshift Taming Pen ထဲထည့်မွေးပြီး ကိုယ့်နေရာတွင် ချည်ထားနိုင်သည် (အသေးစိတ်ကို Taming and pets တွင် ကြည့်ပါ)။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Level 30–56 — မြို့တော်၊ သတ္တုပစ္စည်းများနှင့် အဝေးကျွန်းများ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Kota Raya မြို့တော် — Level 30 ရောက်လျှင် ကစားသမားများ စုဝေးနေထိုင်၊ ပစ္စည်းလုပ်၊ ကုန်သွယ်ကြသည့် Kota Raya မြို့တော် ပွင့်လာပါမည်။ ပစ္စည်းဈေးနှုန်းများကို Market တွင် ကြည့်ရှုနိုင်သည်။",
+        "ကျွန်းအဆင့်ဆင့် (The Island Ladder) — Forest နှင့် Desert (Lv 33–38)၊ Fog (Lv 38–43)၊ Swamp နှင့် Savanna (Lv 43–48)၊ Snow (Lv 48–53) နှင့် Cold (Lv 53–58) တို့ဖြစ်သည် (အားလုံးကို Islands by level တွင် ကြည့်ပါ)။",
+        "သတ္တု (Metal) — Iron Ore ကို Kiln (မီးဖို) တွင် အရည်ကျို၍ Iron ထုတ်လုပ်နိုင်သည် (Processing Level 40 လိုသည်)။ Metal Axe ကဲ့သို့သော သတ္တုလက်နက်များ လုပ်ရန် Weapon Crafting Level 40 လိုအပ်သည်။",
+        "အပတ်စဉ် Mission များ (Weekly Missions) — Unstable Island များရှိ Pioneer Mission များသည် EXP၊ 10,000 T-Stone နှင့် Gem Ore တစ်ခု ပေးပါသည်။ တနင်္လာနေ့တိုင်း 00:00 WIB (မြန်မာစံတော်ချိန် တနင်္ဂနွေည ၁၁:၃၀) တွင် အသစ်ပြန်စပါသည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Level 56 နှင့်အထက်"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Level 56 ရောက်လျှင် Glacier၊ Volcano နှင့် အခြား Lv 58–63 ကျွန်းများ ပွင့်လာပါမည်။ Glacier ကျွန်းပေါ်တွင် Tarbosaurus နေထိုင်သည်။",
+        "Savage Temperate ကဲ့သို့သော Savage Island များတွင် Clan Outpost များ ရှိပါသည် (အသေးစိတ်ကို Clans and outposts တွင် ကြည့်ပါ)။",
+        "Lv 58+ ကျွန်းများပေါ်ရှိ Crater Chest များထဲတွင် ၎င်း Crater ၏ အထူးကုန်ကြမ်းများအပြင် တစ်ခါတစ်ရံ Gem နှင့် Wild Seeds (မျိုးစေ့ရိုင်း) များပါ ပါဝင်တတ်သည်။",
+        "ပစ္စည်းအကြီးကြီးတစ်ခု မလုပ် (Craft) မီ Crafting Planner ကို အရင်ဖွင့်ကြည့်ပါ — လိုအပ်မည့် ကုန်ကြမ်းစုစုပေါင်းနှင့် တစ်ခုချင်းစီ ဘယ်ကရှာရမလဲဆိုတာ အတိအကျ တွက်ပြပေးပါလိမ့်မည်။"
+      ]
+    }
+  ]
+}
