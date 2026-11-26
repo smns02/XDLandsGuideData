@@ -1,1 +1,112 @@
 
+{
+  "title": "Clan များနှင့် Savage Island Outpost စနစ် (Clans & Outposts)",
+  "subtitle": "Clan ဖွဲ့နည်းနှင့် ဝင်နည်း၊ Rank နှင့် Clan EXP စနစ်၊ Kota Raya Clan Land နှင့် Savage Island Outpost တိုက်ပွဲများ။",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Clan ဖွဲ့စည်းခြင်းနှင့် ဝင်ရောက်ခြင်း (Founding & Joining)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Clan ဖွဲ့စည်းခြင်း — Menu > Clan ကိုဖွင့်ပါ။ Clan အသစ်တည်ထောင်ရန် 10,000 T-Stone ကုန်ကျပြီး အမည်မှာ စာလုံး 1 လုံးမှ 20 လုံးအထိ ရှိရမည်။ Clan တစ်ခုထဲ ရောက်နေစဉ် Clan အသစ်ထပ်ဖွဲ့၍ မရပါ။",
+        "Clan ဝင်ရောက်ခြင်း — လျှောက်လွှာတင် (Apply) ပြီး Member ခွင့်ပြုခွင့်ရှိသော Rank မှ လက်ခံမှ ဝင်ရောက်နိုင်မည်။ အခြား Clan တစ်ခုသို့ ထပ်လျှောက်ပါက ယခင်လျှောက်ထားချက် အလိုအလျောက် ပျက်ပြယ်သွားပါမည်။",
+        "Rank များ — Clan က ကိုယ်ပိုင် Rank အမည်များနှင့် လုပ်ပိုင်ခွင့်များ (Member လက်ခံခြင်း၊ Clan ပြင်ဆင်ခြင်း၊ Outpost သိမ်းခြင်း၊ Research လုပ်ခြင်း၊ Land နှင့် Warehouse အသုံးပြုခြင်း) ကို သတ်မှတ်နိုင်သည်။",
+        "Leader ထွက်သွားလျှင် — ခေါင်းဆောင်နေရာကို အမြင့်ဆုံး Rank ရှိသူထံ လွှဲပြောင်းပေးသွားမည်ဖြစ်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Clan ကြီးထွားတိုးတက်ခြင်း (Growing the Clan)"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Clan EXP — Mission နှင့် Event Multiplier များ မပါဝင်မီ Member များ၏ မူလ Base Experience မှတစ်ဆင့် ရရှိသည်။",
+        "Level 25 — အမြင့်ဆုံး Level ဖြစ်သည်။ Clan Board တွင် Level 25 ရောက်ရှိသည့် Clan များကို ဦးရာလူစနစ်ဖြင့် အဆင့်သတ်မှတ်ဖော်ပြသည်။",
+        "Research — Clan Fund ထဲရှိ T-Stone လှူဒါန်းငွေများဖြင့် ပြုလုပ်ရပြီး Research Buff များသည် Crafting Power ထဲတွင် ချက်ချင်းသက်ရောက်မှု ရှိလာမည်။",
+        "Clan Chat — ကျွန်းမည်သည့်နေရာတွင် ရောက်နေပါစေ Member အချင်းချင်း Chat မှတစ်ဆင့် ဆက်သွယ်နိုင်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Clan Land နှင့် Clan Cargo"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Clan သည် Kota Raya တွင် မြေနေရာ (Land) သိမ်းပိုက်နိုင်ပြီး Member များသည် ၎င်းတို့၏ Rank ခွင့်ပြုချက်အလိုက် Field၊ Sprinkler၊ Cage နှင့် Warehouse တို့ကို အသုံးပြုနိုင်သည်။",
+        "Clan Cargo — Clan Leader က Activate လုပ်ထားသော Exit Gate သည် Clan ပိုင်ဖြစ်လာပြီး Member များက Camp တွင် 'Send to Clan' ကို ရွေးချယ်ပို့ဆောင်ပါက Stable ပစ္စည်းအဖြစ် ရောက်ရှိလာမည်ဖြစ်သည်။",
+        "Clan မှ ထွက်သွားသော Member သည် Clan Land ပေါ်တွင် ကိုယ်တိုင်ဆောက်ခဲ့သည့် အရာများကိုပင် နောက်ပိုင်းတွင် ဖွင့်ခြင်း၊ ရှင်းလင်းခြင်း၊ သိမ်းခြင်း သို့မဟုတ် ဖျက်ဆီးခြင်း ပြုလုပ်၍မရတော့ပါ။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Savage Island များပေါ်မှ Outpost များ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "သိမ်းပိုက်ခွင့်ရှိသူ — Outpost သိမ်းယူရန် Kota Raya တွင် Clan Territory ရှိရန် လိုအပ်ပြီး တစ်ကြိမ်လျှင် Outpost တစ်ခုသာ ပိုင်ဆိုင်နိုင်သည် (နောက်ထပ်တစ်ခု ထပ်သိမ်းပါက အဟောင်းကို လွှတ်ပေးရမည်)။",
+        "သိမ်းပိုက်နည်း — Life 104,500 ရှိသော Warp Hole Tuner ကို ဖျက်ဆီးပြီးနောက် Outpost ခွင့်ပြုချက်ရှိသော Member မှ Claim လုပ်ရမည်။ စစ်ပွဲ (War) အတွင်း Outpost အဆောက်အဦတိုင်းကို တိုက်ခိုက်နိုင်ပြီး Level 14 Clan များက Catapult ဆောက်လုပ်နိုင်သည်။",
+        "ထိန်းသိမ်းထားခြင်း — Outpost စစ်ပွဲဖြစ်နေချိန်တွင် Defence Tower များက 8 Tile အတွင်းရှိ ရန်သူများကို ပစ်ခတ်မည်ဖြစ်ပြီး ပိုင်ရှင် Clan နှင့် မဟာမိတ် (Allies) များကို မပစ်ခတ်ပါ။ ကာကွယ်ထားသော Outpost အတွင်းမှ မည်သူမျှ တိုက်ခိုက်၍မရပါ။",
+        "အသုံးပြုခြင်း — Domain Window ၏ Outpost Tab ထဲတွင် Fee များ သတ်မှတ်ခြင်းနှင့် Warp သွားခြင်းတို့ ပြုလုပ်နိုင်သည်။ ပိုင်ရှင် Clan သည် Cargo ကို အခမဲ့ပို့နိုင်ပြီး Ally များက Base Fee ပေးရမည်။ Member များနှင့် Ally များ အတူတကွ ဆောက်လုပ်ကူညီနိုင်သည်။",
+        "မြေအကျယ်အဝန်း — Outpost Domain တစ်ခုစီသည် 32 x 32 Tile ကျယ်ဝန်းပြီး Savage Island တစ်ခုစီတွင် Outpost ၄၀ ရှိကာ ၂၀ မှာ Neutral ဖြစ်သည်။"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ထင်ရှားသော Clan များနှင့် ကျွန်းတည်နေရာများ"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Clan အမည်",
+        "အခြေစိုက် Savage ကျွန်း"
+      ],
+      "rows": [
+        ["Baby Shark", "Savage Tropics"],
+        ["VikingGlory", "Savage Tropics"],
+        ["BAST", "Savage Temperate"],
+        ["MATAPANCING", "Savage Tropics"],
+        ["YAKUSA", "Savage Tropics"],
+        ["WKWKLAND", "Savage Temperate"],
+        ["Zenei", "Savage Tropics"],
+        ["Rewind", "Savage Tropics"],
+        ["POKE", "Savage Tropics"],
+        ["T-Indo", "Savage Tropics"],
+        ["Apocalypse", "Savage Temperate"],
+        ["Q-Raptor", "Savage Temperate"],
+        ["Odyssey", "Savage Tropics"],
+        ["BRAVOSIX", "Savage Temperate"],
+        ["SATU DARAH", "Savage Temperate"],
+        ["Tokek Corp", "Savage Temperate"],
+        ["ALTER", "Savage Temperate"],
+        ["Nusantara", "Savage Tropics"],
+        ["SilverFang", "Savage Tropics"],
+        ["NEXUS", "Savage Temperate"],
+        ["Magister Mortalis", "Savage Tropics"],
+        ["Sensation", "Savage Temperate"],
+        ["INDOPRIME", "Savage Temperate"],
+        ["THE ARCANUM", "Savage Temperate"],
+        ["INDOMIE GORENG", "Savage Tropics"],
+        ["City Of Hero", "Savage Temperate"],
+        ["Durango Civil", "Savage Tropics"],
+        ["KERATON", "Savage Temperate"],
+        ["Ruang Guru", "Savage Temperate"],
+        ["Journey", "Savage Tropics"],
+        ["OLD Blood", "Savage Temperate"],
+        ["PRIMITIVE", "Savage Temperate"],
+        ["ONE PEACE - REBORN", "Savage Tropics"],
+        ["SYNDICATE", "Savage Temperate"],
+        ["INFINITY", "Savage Tropics"]
+      ]
+    }
+  ]
+}
